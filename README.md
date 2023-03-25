@@ -1,2 +1,1 @@
 # solar-system-quackathon
-clear
