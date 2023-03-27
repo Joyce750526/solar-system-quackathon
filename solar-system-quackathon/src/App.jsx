@@ -5,7 +5,6 @@ import InfoBox from "./components/infobox";
 
 function App() {
   // const [count, setCount] = useState(0)
-
   return (
     <>
       <Home />

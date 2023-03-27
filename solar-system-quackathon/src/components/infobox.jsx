@@ -1,9 +1,23 @@
+import "./infobox.css";
+import { useState } from "react";
+
 export default function InfoBox() {
+  const [activeTab, setActiveTab] = useState("size");
+
+  const handleClick = tabName => {
+    setActiveTab(tabName);
+  };
+
   return (
     <div className='container'>
       <div className='tab-container'>
         <ul className='tabs'>
-          <li>Size</li>
+          <li
+            onClick={() => handleClick("size")}
+            className={activeTab === "size" ? "" : "hidden"}
+          >
+            Size
+          </li>
           <li>Distance</li>
           <li>Facts</li>
           <li>Gas/Solid</li>
