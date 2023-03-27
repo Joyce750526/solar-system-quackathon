@@ -1,6 +1,15 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
-const planetSchema = new Schema({
-    
-})
+const moonSchema = new Schema({
+  name: {
+    type: String,
+  },
+  size: {
+    type: Number,
+  },
+  history: {
+    type: String,
+  },
+});
+module.exports = moonSchema;
