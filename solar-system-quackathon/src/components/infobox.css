@@ -2,11 +2,41 @@
   display: none !important;
 }
 
+.container {
+  background: lightgray;
+  color: black;
+  padding-bottom: 10px;
+  min-height: 200px;
+}
+
 ul {
   list-style: none;
+  padding: 0;
 }
 
 li {
   display: inline-block;
-  margin: 20px;
+  color: black;
+  padding: 6px 20px;
+}
+
+li:first-child {
+  background: #fb6d6d;
+  color: white;
+}
+li:nth-child(2) {
+  background: #fbb090;
+}
+li:nth-child(3) {
+  background: #fdff83;
+}
+li:nth-child(4) {
+  background: #abfc85;
+}
+li:last-child {
+  background: #8bd4fe;
+}
+
+.tab-container:hover {
+  cursor: pointer;
 }
