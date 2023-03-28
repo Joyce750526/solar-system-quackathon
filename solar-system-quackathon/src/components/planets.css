@@ -1,0 +1,71 @@
+section {
+    /* display: flex; */
+    position: relative;
+    background-color: hsl(227, 54%, 15%);
+    padding: 10rem;
+}
+
+/* .planet {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+} */
+
+.planet:not(#mercury) {
+    display: none;
+}
+
+#sun {
+    background-color: rgb(255, 175, 46);
+}
+
+#mercury {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    border-radius:50%;
+    background-color: hsl(35, 36%, 50%);
+    background: radial-gradient(circle at 100px 100px, hsl(35, 36%, 60%) 0%, #000 95%);
+    /* background:
+        radial-gradient(circle at 100% 50%, transparent 20%, hsla(35, 36%, 20%, 0.3) 21%, hsla(35, 36%, 70%, 0.3) 34%, transparent 35%, transparent),
+        radial-gradient(circle at 0% 50%, transparent 20%, hsla(35, 36%, 70%, 0.3) 21%, hsla(35, 36%, 20%, 0.3) 34%, transparent 35%, transparent) 0 50px;
+        background-color: hsl(35, 36%, 50%);
+        background-size:75px 100px;
+    transform: rotate(90deg);*/
+    box-shadow: inset -1em -1rem 0.5rem hsla(0, 0%, 0%, 0.5);
+                /* -.5rem -.5rem 0.5rem hsla(0, 0%, 75%, 0.5); */
+    /* overflow: hidden; */
+}
+
+#venus {
+    background-color: rgb(177, 88, 20);
+}
+
+#earth {
+    background-color: rgb(61, 108, 182);
+}
+
+#mars {
+    background-color: rgb(172, 71, 48);
+}
+
+#jupiter {
+    background-color: rgb(195, 191, 191);
+}
+
+#saturn {
+    background-color: rgb(246, 240, 193);
+}
+
+#uranus {
+    background-color: rgb(98, 190, 255);
+}
+
+#neptune {
+    background-color: rgb(141, 154, 228);
+}
