@@ -1,14 +1,19 @@
-import { useState } from 'react'
-import './App.css'
-import Planets from '../components/planets'
+import { useState } from "react";
+import "./App.css";
+import Header from "../components/header";
+import Footer from "../components/footer";
+import InfoBox from "../components/infobox";
 
 export default function App() {
   // const [count, setCount] = useState(0)
 
   return (
-    <div>
-    </div>
-  )
+    <>
+      <Header />
+      <InfoBox />
+      <Footer />
+    </>
+  );
 }
 
 /*
