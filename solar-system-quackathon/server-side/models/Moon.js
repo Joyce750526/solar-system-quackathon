@@ -12,4 +12,5 @@ const moonSchema = new Schema({
     type: String,
   },
 });
-module.exports = moonSchema;
+
+module.exports = mongoose.model("Moon", moonSchema);
