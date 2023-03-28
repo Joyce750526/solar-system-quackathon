@@ -1,16 +1,13 @@
-import { useState } from "react";
 import "./App.css";
+import Home from "./home";
 import Header from "../components/header";
 import Footer from "../components/footer";
-import InfoBox from "../components/infobox";
 
 export default function App() {
-  // const [count, setCount] = useState(0)
-
   return (
     <>
       <Header />
-      <InfoBox />
+      <Home />
       <Footer />
     </>
   );
