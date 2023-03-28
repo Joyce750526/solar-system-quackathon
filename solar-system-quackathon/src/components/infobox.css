@@ -9,12 +9,12 @@
   min-height: 200px;
 }
 
-.active-1 {
+.bg-1 {
   background: rgb(188, 188, 188) !important;
   color: black !important;
 }
 
-.active-2 {
+.bg-2 {
   background: rgb(188, 188, 188) !important;
 }
 
@@ -52,4 +52,17 @@ li:last-child {
 
 .tab-container:hover {
   cursor: pointer;
+}
+
+.fade-in-text {
+  animation: fadeIn 3s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
