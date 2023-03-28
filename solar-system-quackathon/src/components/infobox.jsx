@@ -16,31 +16,31 @@ export default function InfoBox() {
         <ul className='tabs'>
           <li
             onClick={() => handleClick("size")}
-            className={activeTab === "size" ? "bg-1" : ""}
+            className={activeTab === "size" ? "bg text-black" : ""}
           >
             Size
           </li>
           <li
             onClick={() => handleClick("distance")}
-            className={activeTab === "distance" ? "bg-2" : ""}
+            className={activeTab === "distance" ? "bg" : ""}
           >
             Distance
           </li>
           <li
             onClick={() => handleClick("facts")}
-            className={activeTab === "facts" ? "bg-2" : ""}
+            className={activeTab === "facts" ? "bg" : ""}
           >
             Facts
           </li>
           <li
             onClick={() => handleClick("state")}
-            className={activeTab === "state" ? "bg-2" : ""}
+            className={activeTab === "state" ? "bg" : ""}
           >
             Gas/Solid
           </li>
           <li
             onClick={() => handleClick("moons")}
-            className={activeTab === "moons" ? "bg-2" : ""}
+            className={activeTab === "moons" ? "bg" : ""}
           >
             Moons
           </li>

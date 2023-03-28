@@ -9,12 +9,11 @@
   min-height: 200px;
 }
 
-.bg-1 {
-  background: rgb(188, 188, 188) !important;
+.text-black {
   color: black !important;
 }
 
-.bg-2 {
+.bg {
   background: rgb(188, 188, 188) !important;
 }
 
