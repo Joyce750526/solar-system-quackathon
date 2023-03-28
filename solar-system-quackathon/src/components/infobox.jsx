@@ -2,8 +2,10 @@ import "./infobox.css";
 import { useState } from "react";
 
 export default function InfoBox() {
+  /** The default active tab is "Size", hence the useState value */
   const [activeTab, setActiveTab] = useState("size");
 
+  /** handler function to change the current active tab */
   const handleClick = tabName => {
     setActiveTab(tabName);
   };
