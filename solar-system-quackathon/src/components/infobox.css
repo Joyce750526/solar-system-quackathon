@@ -9,6 +9,15 @@
   min-height: 200px;
 }
 
+.active-1 {
+  background: rgb(188, 188, 188) !important;
+  color: black !important;
+}
+
+.active-2 {
+  background: rgb(188, 188, 188) !important;
+}
+
 ul {
   list-style: none;
   padding: 0;
@@ -35,6 +44,10 @@ li:nth-child(4) {
 }
 li:last-child {
   background: #8bd4fe;
+}
+
+.tab-container {
+  margin-bottom: 22px;
 }
 
 .tab-container:hover {
