@@ -20,4 +20,4 @@ const planetSchema = new Schema({
   moons: [{type: Schema.Types.ObjectId, ref: "Moon"}]
 });
 
-module.exports = planetSchema;
+module.exports = mongoose.model("Planet", planetSchema);
