@@ -1,11 +1,14 @@
-const express = require("express");
+import express from "express";
 const app = express();
-const mongoose = require("mongoose");
-const homeRoute = require("./routes/home")
+import mongoose from "mongoose";
+import dotenv from "dotenv";
+import homeRoute from "./routes/home.js"
 const PORT = process.env.PORT || 3000;
 
     //*Import functions/routes
-    const connectDB = require("./config/database")
+    import connectDB from "./config/database.js"
+
+    dotenv.config();
 
     // Database function call
 connectDB()
