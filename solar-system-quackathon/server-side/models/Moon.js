@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+import mongoose from 'mongoose';
 const Schema = mongoose.Schema;
 
 const moonSchema = new Schema({
@@ -13,4 +13,6 @@ const moonSchema = new Schema({
   },
 });
 
-module.exports = mongoose.model("Moon", moonSchema);
+const Moon = mongoose.model("Moon", moonSchema);
+
+export default Moon;

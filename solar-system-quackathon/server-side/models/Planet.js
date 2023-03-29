@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+import mongoose from 'mongoose';
 const Schema = mongoose.Schema;
 
 const planetSchema = new Schema({
@@ -16,8 +16,15 @@ const planetSchema = new Schema({
   },
   state: {
     type: String,
+    enum: {
+      values: ['solid', 'gas'],
+      // This message can be shown if an unsupported value is entered
+      message: '{VALUE} is not supported',
+    },
   },
   moons: [{type: Schema.Types.ObjectId, ref: "Moon"}]
 });
 
-module.exports = mongoose.model("Planet", planetSchema);
+const Planet = mongoose.model("Planet", planetSchema);
+
+export default Planet;
