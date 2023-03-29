@@ -1,10 +1,11 @@
 [
-     {
-        "Joyce": "Please remove these comments before running the files",
-        "Moon Json file comments": "Add every moon for all the planets except jupiter because it has 66 known moons so we will add only 5 of it's moons."
+    {
+        "name": "Moon",
+        "size": 78,
+        "history": "Marxism bushwick pug williamsburg iceland woke intelligentsia"
     },
     {
-        "name": "io",
+        "name": "Io",
         "size": 365,
         "history": "I'm baby marxism bushwick pug williamsburg iceland woke intelligentsia"
     },
