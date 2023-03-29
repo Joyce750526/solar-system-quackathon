@@ -17,7 +17,7 @@ const planetSchema = new Schema({
   state: {
     type: String,
     enum: {
-      values: ['solid', 'gas'],
+      values: ['Solid', 'Gas'],
       // This message can be shown if an unsupported value is entered
       message: '{VALUE} is not supported',
     },
