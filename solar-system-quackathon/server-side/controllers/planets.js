@@ -25,7 +25,9 @@ module.exports = {
 // inserts the data for to be displayed on the pages
 const insertPlanets = async () => {
     try {
-        await Planets.insertMany([{}])
+        await Planets.insertMany([{
+            name: "Earth"
+        }])
     } catch (error) {
         
     }
