@@ -1,6 +1,9 @@
 import { useState } from "react";
 import "./planets.css";
 
+
+// THIS HAS BEEN REPLICATED IN THE PLANETS FOLDER ALL AS SEPERATE COMPONENTS - THIS FILE SHOULD NOT BE USED
+
 export default function Planets() {
   // const [count, setCount] = useState(0)
 
@@ -24,8 +27,12 @@ export default function Planets() {
       <div className='planet' id='jupiter'>
         Jupiter
       </div>
-      <div className='planet' id='saturn'>
+      <div className='planet' id='saturn-container'>
         Saturn
+        <div className='planet' id='saturn'>
+          <div id='saturn-rings'></div>
+          <div id='saturn-hiding'></div>
+        </div>
       </div>
       <div className='planet' id='uranus'>
         Uranus

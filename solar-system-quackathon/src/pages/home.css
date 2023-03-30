@@ -1,0 +1,21 @@
+.planet {
+    margin: 1rem;
+    display: flex;
+    border-radius: 50%;
+    position: relative;
+}
+
+#mercury, #mars {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+#venus, #earth {
+    width: 5rem;
+    height: 5rem;
+}
+
+#uranus, #neptune {
+    width: 9rem;
+    height: 9rem;
+}
