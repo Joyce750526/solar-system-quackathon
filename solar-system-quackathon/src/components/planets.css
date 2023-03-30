@@ -1,8 +1,9 @@
 section {
-    /* display: flex; */
-    position: relative;
-    background-color: hsl(227, 54%, 15%);
-    padding: 10rem;
+    display: flex;
+    /* background-color: hsl(227, 54%, 15%); */
+    padding: 1rem;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
 /* .planet {
@@ -16,56 +17,110 @@ section {
     border-radius: 50%;
 } */
 
-.planet:not(#mercury) {
-    display: none;
+.planet {
+    margin: 1rem;
+    display: flex;
+    border-radius: 50%;
+    position: relative;
 }
+
+/* .planet:not(#saturn-container) {
+    display: none;
+} */
 
 #sun {
     background-color: rgb(255, 175, 46);
 }
 
+#mercury, #mars {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+#venus, #earth {
+    width: 5rem;
+    height: 5rem;
+}
+
+#uranus, #neptune {
+    width: 9rem;
+    height: 9rem;
+}
+
 #mercury {
-    position: relative;
-    width: 400px;
-    height: 400px;
-    border-radius:50%;
-    background-color: hsl(35, 36%, 50%);
-    background: radial-gradient(circle at 100px 100px, hsl(35, 36%, 60%) 0%, #000 95%);
+    background: radial-gradient(circle at 0.5rem 1rem, hsl(35, 36%, 60%) 0%, hsl(0, 0%, 10%) 95%);
     /* background:
         radial-gradient(circle at 100% 50%, transparent 20%, hsla(35, 36%, 20%, 0.3) 21%, hsla(35, 36%, 70%, 0.3) 34%, transparent 35%, transparent),
         radial-gradient(circle at 0% 50%, transparent 20%, hsla(35, 36%, 70%, 0.3) 21%, hsla(35, 36%, 20%, 0.3) 34%, transparent 35%, transparent) 0 50px;
         background-color: hsl(35, 36%, 50%);
         background-size:75px 100px;
     transform: rotate(90deg);*/
-    box-shadow: inset -1em -1rem 0.5rem hsla(0, 0%, 0%, 0.5);
-                /* -.5rem -.5rem 0.5rem hsla(0, 0%, 75%, 0.5); */
-    /* overflow: hidden; */
 }
 
 #venus {
-    background-color: rgb(177, 88, 20);
+    background: radial-gradient(circle at 1rem 2rem, hsl(20, 55%, 50%) 0%, hsl(0, 0%, 10%) 95%);
 }
 
 #earth {
-    background-color: rgb(61, 108, 182);
+    background: radial-gradient(circle at 1rem 2rem, hsl(232, 74%, 65%) 0%, hsl(0, 0%, 10%) 95%);
 }
 
 #mars {
-    background-color: rgb(172, 71, 48);
+    background: radial-gradient(circle at 0.5rem 1rem, hsl(14, 90%, 50%) 0%, hsl(0, 0%, 10%) 95%);
 }
 
 #jupiter {
-    background-color: rgb(195, 191, 191);
+    width: 20rem;
+    height: 20rem;
+    background: radial-gradient(circle at 2rem 10rem, hsl(23, 83%, 72%) 0%, hsl(0, 0%, 10%) 95%);
+    /* box-shadow: inset -1em -1rem -1rem hsla(0, 0%, 50%, 0.5); */
+}
+
+/* ---------- START OF SATURN ---------- */
+
+#saturn-container {
+    width: 25.5rem;
+    height: 19rem;
 }
 
 #saturn {
-    background-color: rgb(246, 240, 193);
+    position: absolute;
+    left: 6rem;
+    margin: 1rem .25rem 0rem;
+    width: 17rem;
+    height: 17rem;
+    background: radial-gradient(circle at 2rem 10rem, hsl(41, 85%, 74%) 0%, hsl(0, 0%, 10%) 95%);
+    transform: rotate(25deg);
 }
 
+#saturn-rings {
+    position: absolute;
+    background-color: transparent;
+    border-radius: 50%;
+    width: 20rem;
+    height: 7rem;
+    z-index: 1;
+    top: 2rem;
+    left: -4.5rem;
+    border:hsla(0, 0%, 78%, 0.5) solid 3rem;
+}
+
+#saturn-hiding {
+    position: absolute;
+    width: 17rem;
+    height: 8.5rem;
+    border-radius: 8.5rem 8.5rem 0% 0%;
+    z-index: 2;
+    background: radial-gradient(circle at 2rem 10rem, hsl(41, 85%, 74%) 0%, hsl(0, 0%, 10%) 95%);
+    box-shadow: inset -1em -1rem -1rem hsla(0, 0%, 50%, 0.5);
+}
+
+/* ---------- END OF SATURN ---------- */
+
 #uranus {
-    background-color: rgb(98, 190, 255);
+    background: radial-gradient(circle at 1rem 4.5rem, hsl(205, 100%, 69%) 0%, hsl(0, 0%, 10%) 95%);
 }
 
 #neptune {
-    background-color: rgb(141, 154, 228);
+    background: radial-gradient(circle at 1rem 4.5rem, hsl(231, 62%, 72%) 0%, hsl(0, 0%, 10%) 95%);
 }
