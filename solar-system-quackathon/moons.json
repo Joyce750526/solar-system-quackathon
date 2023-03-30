@@ -8,19 +8,21 @@
     {
         "name": "Phobos",
         "size": 78,
-        "history": "Marxism bushwick pug williamsburg iceland woke intelligentsia",
+        "diameter": 22.2,
+        "history": "This is the innermost and larger of the two natural satellites of Mars. It was discovered by an American astronomer, Asaph Hall, in 1877. He named it Phobos (which means 'fear'), after one of the twin sons of the mythological Greek god of war, Ares. He discovered this moon six nights after discovering the other moon of Mars, Deimos. It orbits Mars three times a day and is so close to the planet's surface that in some locations on Mars, it cannot always be seen. It actually gets closer to Mars by 6ft/1.8m every century. Scientists believe that in around 50 million years Phobos will either break up and create a ring around Mars or simply crash into the Red Planet. No other moon in the solar system orbits that close to it parent planet. It is tidally locked, with only one face showing as it circles around Mars.",
         "planetName": "Mars"
     },
     {
         "name": "Deimos",
         "size": 78,
-        "history": "Marxism bushwick pug williamsburg iceland woke intelligentsia",
+        "Diameter": "12.4",
+        "history": "This is the smaller of two moons that orbit around Mars. It is shaped like a potato and takes about 30 hours to orbit around Mars. It was discovered by an American astronomer, Asaph Hall, on the 12th of August, 1877. He named it Deimos (which means 'to flee' or to 'escape in flight'), after one of the twin sons of the mythological Greek god of war, Ares. He discovered this moon six nights before discovering the other moon of Mars, Phobos. The surface of Deimos is covered in craters that have been impacting the little moon for thousands of years. Deimos is moving farther away from the planet Mars. It is tidally locked, with only one face showing as it circles around Mars.",
         "planetName": "Mars"
     },
     {
         "name": "Io",
         "size": 365,
-        "history": "I'm baby marxism bushwick pug williamsburg iceland woke intelligentsia",
+        "history": "This is the fifth of the 79 moons of Jupiter and it's one of the moons that is of high interest to the scientific community. It was discovered by Galileo Galilei on the 7th of January, 1610. It was the first moon discovered to orbit another planet in our solar system outside of Earth. Io has lots of volcanoes that are due to the gravitational pull on one side by Jupiter and then the perfectly balanced pull on the others side of two others moons, Ganymede and Europa. This constant dance of gravity puts Io in a position of incredible tidal forces that cause the surface to bulge in and out as much as 330ft/100m. To give an idea of comparison, Earth's tidal forces on the water of our planet are only 60ft/18m. Io is in constant motion, with a surface covered in plains of liquid rock and lakes filled with lava. Astronomers have been studying Io and have mapped around 150 existing volcanoes with new hotspots appearing. The inside of Io has an incredible amount of heat that builds up due to constant tidal forces ** Io's volcanic activity is the highest in the entire solar system, with volcanoes erupting fountains of lava 190mi/300km high. One side of Io will always be facing Jupiter as it is “tidally locked” in the same way that our moon is to Earth. This moon of Jupiter is just a bit larger than our moon and is the third largest of all of Jupiter's moons.",
         "planetName": "Jupiter"
     },
     {

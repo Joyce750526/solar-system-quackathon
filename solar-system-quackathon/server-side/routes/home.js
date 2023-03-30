@@ -1,10 +1,10 @@
-const express = require('express');
-const router = express.Router();
-const homeController = require('../controllers/planets')
+import { Router } from "express";
+const router = Router();
+import { getPlanets } from "../controllers/planets.js";
 
 // * Handles initial GET request from the homepage
 
-router.get('/', homeController.getPlanets) // read
-router.get('/moons', homeController.getMoons) // read
+router.get("/", getPlanets); // read
+router.get("/moons", getMoons); // read
 
-module.exports = router
+export default router;
