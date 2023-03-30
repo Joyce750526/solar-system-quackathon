@@ -11,6 +11,9 @@ const moonSchema = new Schema({
   history: {
     type: String,
   },
+  planetName: {
+    type: String,
+  }
 });
 
 const Moon = mongoose.model("Moon", moonSchema);
