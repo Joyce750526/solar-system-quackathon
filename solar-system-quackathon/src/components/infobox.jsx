@@ -1,14 +1,34 @@
 import "./infobox.css";
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import Axios from "axios";
 
 export default function InfoBox() {
   /** The default active tab is "Size", hence the useState value */
   const [activeTab, setActiveTab] = useState("size");
+  const [moons, setMoons] = useState("");
 
   /** handler function to change the current active tab */
-  const handleClick = tabName => {
+  const handleClick = async tabName => {
     setActiveTab(tabName);
+    try {
+      const response = await Axios.get("/moon");
+      console.log("data:", response.data);
+    } catch (error) {
+      console.log(error.response.data);
+    }
   };
+
+  // const getMoons = async () => {
+  //   try {
+  //     const response = await Axios.get("/api/");
+  //     setMoons(response.data.name);
+  //     console.log(response.data);
+  //   } catch (error) {
+  //     console.log(error.response.data);
+  //   }
+  // };
+
+  // useEffect(() => {})
 
   return (
     <div className='container'>
@@ -79,6 +99,7 @@ export default function InfoBox() {
           }`}
         >
           Moon(s) content
+          {moons}
         </div>
       </div>
     </div>
