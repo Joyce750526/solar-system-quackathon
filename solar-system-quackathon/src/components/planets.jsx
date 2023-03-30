@@ -1,6 +1,9 @@
 import { useState } from "react";
 import "./planets.css";
 
+
+// THIS HAS BEEN REPLICATED IN THE PLANETS FOLDER ALL AS SEPERATE COMPONENTS - THIS FILE SHOULD NOT BE USED
+
 export default function Planets() {
   // const [count, setCount] = useState(0)
 
