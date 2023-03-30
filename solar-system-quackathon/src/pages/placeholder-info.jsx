@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import Axios from "axios";
+import InfoBox from "../components/infobox";
 
 export default function PlaceholderInfo({ planet }) {
   const [data, setData] = useState(null);
@@ -28,6 +29,7 @@ export default function PlaceholderInfo({ planet }) {
             <p>{item.body}</p>
           </div>
         ))}
+      <InfoBox />
     </>
   );
 }
