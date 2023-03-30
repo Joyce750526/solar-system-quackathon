@@ -1,4 +1,7 @@
 import InfoBox from "../components/infobox";
+import Header from "../components/header";
+import Footer from "../components/footer";
+import Placeholder from "../components/placeholder-planets";
 import Mercury from "../components/planets/mercury";
 import Venus from "../components/planets/venus";
 import Earth from "../components/planets/earth";
@@ -11,6 +14,8 @@ import Neptune from "../components/planets/neptune";
 export default function Home() {
   return (
     <>
+      <Header />
+      <Placeholder />
       <Mercury />
       <Venus />
       <Earth />
@@ -19,7 +24,7 @@ export default function Home() {
       <Saturn />
       <Uranus />
       <Neptune />
-      <InfoBox />
+      <Footer />
     </>
   );
 }
