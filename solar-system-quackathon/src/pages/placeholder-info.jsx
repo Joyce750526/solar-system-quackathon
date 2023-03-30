@@ -1,14 +1,21 @@
-import { useEffect, useContext } from "react";
+import { useEffect, useContext, useState } from "react";
 import { useParams } from "react-router-dom";
-import { DataContext } from "../components/placeholder-planets";
+import Axios from "axios";
 
 export default function PlaceholderInfo({ planet }) {
-  const data = useContext(DataContext);
+  const [data, setData] = useState(null);
   const { postId } = useParams();
 
   useEffect(() => {
-    console.log("data when rendered:", data);
-  }, [data]);
+    const fetchData = async () => {
+      const response = await Axios.get(
+        `https://jsonplaceholder.typicode.com/comments?postId=${postId}`
+      );
+      const data = response.data;
+      setData(data);
+    };
+    fetchData();
+  }, []);
 
   return (
     <>
@@ -18,7 +25,7 @@ export default function PlaceholderInfo({ planet }) {
       {data &&
         data.map((item, index) => (
           <div key={index}>
-            <p>name: {item.name}</p>
+            <p>{item.body}</p>
           </div>
         ))}
     </>
