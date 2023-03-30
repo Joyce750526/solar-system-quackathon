@@ -12,6 +12,7 @@ import Moons from './server-side/models/Moon.js';
         }
     }
 
+    /*
     //* GET: getting the moon info
     export const getMoons = async (req, res) => {
         try {
@@ -22,3 +23,4 @@ import Moons from './server-side/models/Moon.js';
             res.status(404).json({ message: err.message })
         }
     }
+    */
