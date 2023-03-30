@@ -2,46 +2,67 @@
     {
         "name": "Moon",
         "size": 78,
-        "history": "Marxism bushwick pug williamsburg iceland woke intelligentsia"
+        "history": "Marxism bushwick pug williamsburg iceland woke intelligentsia",
+        "planetName": "Earth"
+    },
+    {
+        "name": "Phobos",
+        "size": 78,
+        "history": "Marxism bushwick pug williamsburg iceland woke intelligentsia",
+        "planetName": "Mars"
+    },
+    {
+        "name": "Deimos",
+        "size": 78,
+        "history": "Marxism bushwick pug williamsburg iceland woke intelligentsia",
+        "planetName": "Mars"
     },
     {
         "name": "Io",
         "size": 365,
-        "history": "I'm baby marxism bushwick pug williamsburg iceland woke intelligentsia"
+        "history": "I'm baby marxism bushwick pug williamsburg iceland woke intelligentsia",
+        "planetName": "Jupiter"
     },
     {
         "name": "Europa",
         "size": 365,
-        "history": " Readymade celiac DIY offal jianbing shaman vexillologist hell of leggings biodiesel small batch chia marxism. Roof party narwhal listicle, forage next level stumptown yr. "
+        "history": " Readymade celiac DIY offal jianbing shaman vexillologist hell of leggings biodiesel small batch chia marxism. Roof party narwhal listicle, forage next level stumptown yr.",
+        "planetName": "Venus"
     },
     {
         "name": "Callisto",
         "size": 365,
-        "history": "Humblebrag glossier selvage ascot subway tile you probably haven't heard of them meditation godard."
+        "history": "Humblebrag glossier selvage ascot subway tile you probably haven't heard of them meditation godard.",
+        "planetName": "Neptune"
     },
     {
         "name": "Puck",
         "size": 365,
-        "history": "Blog af biodiesel, bespoke subway tile put a bird on it wayfarers post-ironic vape taiyaki VHS distillery pug viral. Slow-carb blackbird spyplane gochujang, edison bulb flannel echo park pour-over marxism try-hard leggings shoreditch"
+        "history": "Blog af biodiesel, bespoke subway tile put a bird on it wayfarers post-ironic vape taiyaki VHS distillery pug viral. Slow-carb blackbird spyplane gochujang, edison bulb flannel echo park pour-over marxism try-hard leggings shoreditch",
+        "planetName": "Maercury"
     },
     {
         "name": "Umbriel",
         "size": 155,
-        "history": " Edison bulb cold-pressed marfa biodiesel skateboard taiyaki cupping pinterest activated charcoal cornhole. Vape keffiyeh cupping air plant whatever."
+        "history": " Edison bulb cold-pressed marfa biodiesel skateboard taiyaki cupping pinterest activated charcoal cornhole. Vape keffiyeh cupping air plant whatever.",
+        "planetName": "Mars"
     },
     {
         "name": "Oberon",
         "size": 46,
-        "history": "Forage mukbang hammock grailed tumblr. Gastropub franzen vape locavore, hammock gluten-free bespoke hexagon palo santo pug. "
+        "history": "Forage mukbang hammock grailed tumblr. Gastropub franzen vape locavore, hammock gluten-free bespoke hexagon palo santo pug. ",
+        "planetName": "Venus"
     },
     {
         "name": "Nereid",
         "size": 895,
-        "history": "Bespoke plaid actually synth, woke brunch iPhone. Blackbird spyplane keytar shabby chic celiac bitters poutine roof party pok pok man braid humblebrag. Vice twee selfies tbh, bicycle rights sriracha beard lo-fi tacos affogato crucifix."
+        "history": "Bespoke plaid actually synth, woke brunch iPhone. Blackbird spyplane keytar shabby chic celiac bitters poutine roof party pok pok man braid humblebrag. Vice twee selfies tbh, bicycle rights sriracha beard lo-fi tacos affogato crucifix.",
+        "planetName": "Saturn"
     },
     {
         "name": "Neso",
         "size": 376,
-        "history": "Banjo snackwave grailed twee same vaporware kale chips +1 pok pok banh mi skateboard marfa unicorn keytar solarpunk. Ascot health goth af slow-carb, letterpress cliche occupy photo booth polaroid vinyl. Beard biodiesel blog, cred cornhole man braid gatekeep thundercats VHS direct trade hella air plant coloring book truffaut JOMO."
+        "history": "Banjo snackwave grailed twee same vaporware kale chips +1 pok pok banh mi skateboard marfa unicorn keytar solarpunk. Ascot health goth af slow-carb, letterpress cliche occupy photo booth polaroid vinyl. Beard biodiesel blog, cred cornhole man braid gatekeep thundercats VHS direct trade hella air plant coloring book truffaut JOMO.",
+        "planetName": "Earth"
     }
 ]
