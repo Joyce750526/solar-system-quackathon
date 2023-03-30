@@ -1,14 +1,14 @@
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./home";
-import Planets from "../components/planets";
+import PlaceholderInfo from "./placeholder-info";
 
 export default function App() {
   return (
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/planet' element={<Planets />} />
+        <Route path='/placeholder-info' element={<PlaceholderInfo />} />
       </Routes>
     </BrowserRouter>
   );
