@@ -8,7 +8,14 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/placeholder-info' element={<PlaceholderInfo />} />
+        <Route
+          path='/mercury/:postId'
+          element={<PlaceholderInfo planet='mercury' />}
+        />
+        <Route
+          path='/venus/:postId'
+          element={<PlaceholderInfo planet='venus' />}
+        />
       </Routes>
     </BrowserRouter>
   );

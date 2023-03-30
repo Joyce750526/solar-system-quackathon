@@ -7,9 +7,6 @@ export default function Home() {
   return (
     <>
       <Header />
-      {/** Comment from Ash:
-       * The InfoBox is only here during development. This will be removed later. */}
-      {/* <InfoBox /> */}
       <Placeholder />
       <Footer />
     </>
