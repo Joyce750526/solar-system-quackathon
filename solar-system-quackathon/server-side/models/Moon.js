@@ -5,7 +5,7 @@ const moonSchema = new Schema({
   name: {
     type: String,
   },
-  size: {
+  diameter: {
     type: Number,
   },
   history: {
