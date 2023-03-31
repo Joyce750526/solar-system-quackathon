@@ -1,10 +1,12 @@
-section {
+/* THIS HAS BEEN REPLICATED IN THE PLANETS FOLDER ALL AS THEIR OWN CSS FILES (ONE FOR EACH PLANET) - THIS FILE SHOULD NOT BE USED */
+
+/* section {
     display: flex;
-    /* background-color: hsl(227, 54%, 15%); */
+    background-color: hsl(227, 54%, 15%);
     padding: 1rem;
     flex-wrap: wrap;
     align-items: center;
-}
+} */
 
 /* .planet {
     width: 100px;
@@ -17,22 +19,22 @@ section {
     border-radius: 50%;
 } */
 
-.planet {
+/* .planet {
     margin: 1rem;
     display: flex;
     border-radius: 50%;
     position: relative;
-}
+} */
 
 /* .planet:not(#saturn-container) {
     display: none;
 } */
 
-#sun {
+/* #sun {
     background-color: rgb(255, 175, 46);
-}
+} */
 
-#mercury, #mars {
+/* #mercury, #mars {
     width: 2.5rem;
     height: 2.5rem;
 }
@@ -45,40 +47,33 @@ section {
 #uranus, #neptune {
     width: 9rem;
     height: 9rem;
-}
+} */
 
-#mercury {
+/* #mercury {
     background: radial-gradient(circle at 0.5rem 1rem, hsl(35, 36%, 60%) 0%, hsl(0, 0%, 10%) 95%);
-    /* background:
-        radial-gradient(circle at 100% 50%, transparent 20%, hsla(35, 36%, 20%, 0.3) 21%, hsla(35, 36%, 70%, 0.3) 34%, transparent 35%, transparent),
-        radial-gradient(circle at 0% 50%, transparent 20%, hsla(35, 36%, 70%, 0.3) 21%, hsla(35, 36%, 20%, 0.3) 34%, transparent 35%, transparent) 0 50px;
-        background-color: hsl(35, 36%, 50%);
-        background-size:75px 100px;
-    transform: rotate(90deg);*/
-}
+} */
 
-#venus {
+/* #venus {
     background: radial-gradient(circle at 1rem 2rem, hsl(20, 55%, 50%) 0%, hsl(0, 0%, 10%) 95%);
-}
+} */
 
-#earth {
+/* #earth {
     background: radial-gradient(circle at 1rem 2rem, hsl(232, 74%, 65%) 0%, hsl(0, 0%, 10%) 95%);
-}
+} */
 
-#mars {
+/* #mars {
     background: radial-gradient(circle at 0.5rem 1rem, hsl(14, 90%, 50%) 0%, hsl(0, 0%, 10%) 95%);
-}
+} */
 
-#jupiter {
+/* #jupiter {
     width: 20rem;
     height: 20rem;
     background: radial-gradient(circle at 2rem 10rem, hsl(23, 83%, 72%) 0%, hsl(0, 0%, 10%) 95%);
-    /* box-shadow: inset -1em -1rem -1rem hsla(0, 0%, 50%, 0.5); */
-}
+} */
 
 /* ---------- START OF SATURN ---------- */
 
-#saturn-container {
+/* #saturn-container {
     width: 25.5rem;
     height: 19rem;
 }
@@ -113,14 +108,14 @@ section {
     z-index: 2;
     background: radial-gradient(circle at 2rem 10rem, hsl(41, 85%, 74%) 0%, hsl(0, 0%, 10%) 95%);
     box-shadow: inset -1em -1rem -1rem hsla(0, 0%, 50%, 0.5);
-}
+} */
 
 /* ---------- END OF SATURN ---------- */
 
-#uranus {
+/* #uranus {
     background: radial-gradient(circle at 1rem 4.5rem, hsl(205, 100%, 69%) 0%, hsl(0, 0%, 10%) 95%);
-}
+} */
 
-#neptune {
+/* #neptune {
     background: radial-gradient(circle at 1rem 4.5rem, hsl(231, 62%, 72%) 0%, hsl(0, 0%, 10%) 95%);
-}
+} */

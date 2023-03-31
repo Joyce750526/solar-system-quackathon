@@ -1,14 +1,22 @@
 import "./App.css";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./home";
-import Header from "../components/header";
-import Footer from "../components/footer";
+import PlaceholderInfo from "./placeholder-info";
 
 export default function App() {
   return (
-    <>
-      <Header />
-      <Home />
-      <Footer />
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route
+          path='/mercury/:postId'
+          element={<PlaceholderInfo planet='mercury' />}
+        />
+        <Route
+          path='/venus/:postId'
+          element={<PlaceholderInfo planet='venus' />}
+        />
+      </Routes>
+    </BrowserRouter>
   );
 }

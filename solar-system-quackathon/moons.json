@@ -1,11 +1,11 @@
 [
-    {
-        "name": "Moon",
-        "size": 78,
-        "history": "Marxism bushwick pug williamsburg iceland woke intelligentsia",
-        "planetName": "Earth"
-    },
-    {
+  {
+    "name": "Moon",
+    "diameters": 78,
+    "history": "This is the only moon of the planet Earth. The earths moon affects the tides of the rivers on earth.",
+    "planetName": "Earth"
+  },
+  {
         "name": "Phobos",
         "size": 78,
         "diameter": 22.2,
@@ -25,46 +25,167 @@
         "history": "This is the fifth of the 79 moons of Jupiter and it's one of the moons that is of high interest to the scientific community. It was discovered by Galileo Galilei on the 7th of January, 1610. It was the first moon discovered to orbit another planet in our solar system outside of Earth. Io has lots of volcanoes that are due to the gravitational pull on one side by Jupiter and then the perfectly balanced pull on the others side of two others moons, Ganymede and Europa. This constant dance of gravity puts Io in a position of incredible tidal forces that cause the surface to bulge in and out as much as 330ft/100m. To give an idea of comparison, Earth's tidal forces on the water of our planet are only 60ft/18m. Io is in constant motion, with a surface covered in plains of liquid rock and lakes filled with lava. Astronomers have been studying Io and have mapped around 150 existing volcanoes with new hotspots appearing. The inside of Io has an incredible amount of heat that builds up due to constant tidal forces ** Io's volcanic activity is the highest in the entire solar system, with volcanoes erupting fountains of lava 190mi/300km high. One side of Io will always be facing Jupiter as it is “tidally locked” in the same way that our moon is to Earth. This moon of Jupiter is just a bit larger than our moon and is the third largest of all of Jupiter's moons.",
         "planetName": "Jupiter"
     },
-    {
-        "name": "Europa",
-        "size": 365,
-        "history": " Readymade celiac DIY offal jianbing shaman vexillologist hell of leggings biodiesel small batch chia marxism. Roof party narwhal listicle, forage next level stumptown yr.",
-        "planetName": "Venus"
-    },
-    {
-        "name": "Callisto",
-        "size": 365,
-        "history": "Humblebrag glossier selvage ascot subway tile you probably haven't heard of them meditation godard.",
-        "planetName": "Neptune"
-    },
-    {
-        "name": "Puck",
-        "size": 365,
-        "history": "Blog af biodiesel, bespoke subway tile put a bird on it wayfarers post-ironic vape taiyaki VHS distillery pug viral. Slow-carb blackbird spyplane gochujang, edison bulb flannel echo park pour-over marxism try-hard leggings shoreditch",
-        "planetName": "Maercury"
-    },
-    {
-        "name": "Umbriel",
-        "size": 155,
-        "history": " Edison bulb cold-pressed marfa biodiesel skateboard taiyaki cupping pinterest activated charcoal cornhole. Vape keffiyeh cupping air plant whatever.",
-        "planetName": "Mars"
-    },
-    {
-        "name": "Oberon",
-        "size": 46,
-        "history": "Forage mukbang hammock grailed tumblr. Gastropub franzen vape locavore, hammock gluten-free bespoke hexagon palo santo pug. ",
-        "planetName": "Venus"
-    },
-    {
-        "name": "Nereid",
-        "size": 895,
-        "history": "Bespoke plaid actually synth, woke brunch iPhone. Blackbird spyplane keytar shabby chic celiac bitters poutine roof party pok pok man braid humblebrag. Vice twee selfies tbh, bicycle rights sriracha beard lo-fi tacos affogato crucifix.",
-        "planetName": "Saturn"
-    },
-    {
-        "name": "Neso",
-        "size": 376,
-        "history": "Banjo snackwave grailed twee same vaporware kale chips +1 pok pok banh mi skateboard marfa unicorn keytar solarpunk. Ascot health goth af slow-carb, letterpress cliche occupy photo booth polaroid vinyl. Beard biodiesel blog, cred cornhole man braid gatekeep thundercats VHS direct trade hella air plant coloring book truffaut JOMO.",
-        "planetName": "Earth"
-    }
+  {
+    "name": "Europa",
+    "diameters": 365,
+    "history": " Readymade celiac DIY offal jianbing shaman vexillologist hell of leggings biodiesel small batch chia marxism. Roof party narwhal listicle, forage next level stumptown year.",
+    "planetName": "Earth"
+  },
+  {
+    "name": "Callisto",
+    "diameters": 365,
+    "history": "Humblebrag glossier selvage ascot subway tile you probably haven't heard of them meditation godard.",
+    "planetName": "Earth"
+  },
+  {
+    "name": "Puck",
+    "diameters": 365,
+    "history": "Blog af biodiesel, bespoke subway tile put a bird on it wayfarers post-ironic vape taiyaki VHS distillery pug viral. Slow-carb blackbird spyplane gochujang, edison bulb flannel echo park pour-over marxism try-hard leggings shoreditch",
+    "planetName": "Earth"
+  },
+  {
+    "name": "Umbriel",
+    "diameters": 155,
+    "history": " Edison bulb cold-pressed marfa biodiesel skateboard taiyaki cupping pinterest activated charcoal cornhole. Vape keffiyeh cupping air plant whatever.",
+    "planetName": "Earth"
+  },
+  {
+    "name": "Oberon",
+    "diameters": 46,
+    "history": "Forage mukbang hammock grailed tumblr. Gastropub franzen vape locavore, hammock gluten-free bespoke hexagon palo santo pug.",
+    "planetName": "Earth"
+  },
+  {
+    "name": "Nereid",
+    "diameters": 895,
+    "history": "Bespoke plaid actually synth, woke brunch iPhone. Blackbird spyplane keytar shabby chic celiac bitters poutine roof party pok pok man braid humblebrag. Vice twee selfies tbh, bicycle rights sriracha beard lo-fi tacos affogato crucifix.",
+    "planetName": "Earth"
+  },
+  {
+    "name": "Neso",
+    "diameters": 60,
+    "history": "Banjo snackwave grailed twee same vaporware kale chips +1 pok pok banh mi skateboard marfa unicorn keytar solarpunk. Ascot health goth af slow-carb, letterpress cliche occupy photo booth polaroid vinyl. Beard biodiesel blog, cred cornhole man braid gatekeep thundercats VHS direct trade hella air plant coloring book truffaut JOMO.",
+    "planetName": "******************Earth****************"
+  },
+  {
+    "name": "Cordelia",
+    "diameters": 40,
+    "history": "Cordelia is the innermost known moon of Uranus. It was discovered from the images taken by Voyager 2 on January 20, 1986, and was given the temporary designation S/1986 U 7. It was not detected again until the Hubble Space Telescope observed it in 1997.",
+    "planetName": "Uranus"
+  },
+  {
+    "name": "Ophelia2",
+    "diameters": 43,
+    "history": "Ophelia is a moon of Uranus. It was discovered from the images taken by Voyager 2 on January 20, 1986, and was given the temporary designation S/1986 U 8. It was not seen until the Hubble Space Telescope recovered it in 2003.",
+    "planetName": "Uranus"
+  },
+  {
+    "name": "Bianca3",
+    "diameters": 51,
+    "history": "Bianca is an inner satellite of Uranus. It was discovered from the images taken by Voyager 2 on January 23, 1986, and was given the temporary designation S/1986 U 9. It was named after the sister of Katherine in Shakespeare's play The Taming of the Shrew.",
+    "planetName": "Uranus"
+  },
+  {
+    "name": "Cressida4",
+    "diameters": 80,
+    "history": "Cressida is an inner satellite of Uranus. It was discovered from the images taken by Voyager 2 on 9 January 1986, and was given the temporary designation S/1986 U 3.It was named after Cressida, the Trojan daughter of Calchas, a tragic heroine who appears in William Shakespeare's play Troilus and Cressida (as well as in tales by Geoffrey Chaucer and others). It is also designated Uranus IX.",
+    "planetName": "Uranus"
+  },
+
+  {
+    "name": "Portia",
+    "diameters": 135,
+    "history": "Portia was discovered January 1986 by the Voyager 2 spacecraft during its flyby of Uranus. Portia is an inner satellite of Uranus and it was given the temporary designation S/1986 U 1. The moon is named after Portia, the heroine of William Shakespeare's play The Merchant of Venice. It is also designated Uranus XII.",
+    "planetName": "Uranus"
+  },
+  {
+    "name": "Juliet",
+    "diameters": 94,
+    "history": "Juliet was discovered on Jan. 3, 1986 in images taken by Voyager 2 seience team, was given the temporary designation S/1986 U 2.It is one of the 10 Uranian satellites discovered by the Voyager science team.Juliet is an inner satellite of Uranus. It is named after the heroine of William Shakespeare's play Romeo and Juliet. It is also designated Uranus XI.",
+    "planetName": "Uranus"
+  },
+  {
+    "name": "Rosalind",
+    "diameters": 72,
+    "history": "Rosalind was discovered by the Voyager 2 science team on 13 January 1986, and was given the temporary designation S/1986 U 4. Rosalind is an inner satellite of Uranus. It was named after the daughter of the banished Duke in William Shakespeare's play As You Like It. It is also designated Uranus XIII.",
+    "planetName": "Uranus"
+  },
+  {
+    "name": "Desdemona5",
+    "diameters": 64,
+    "history": "Desdemona is an inner satellite of Uranus. It was discovered from the images taken by Voyager 2 on 13 January 1986, and was given the temporary designation S/1986 U 6. Desdemona is named after the wife of Othello in William Shakespeare's play Othello. It is also designated Uranus X.",
+    "planetName": "Uranus"
+  },
+  {
+    "name": "Cupid",
+    "diameters": 36,
+    "history": "Cupid was discovered on Aug. 25, 2003 by M.R. Showalter and J.J. Lissauer, using the Hubble Space Telescope. Cupid is an inner satellite of Uranus. It was discovered by Mark R. Showalter and Jack J. Lissauer in 2003 using the Hubble Space Telescope. It was named after a character in William Shakespeare's play Timon of Athens. It is the smallest known inner Uranian satellite.",
+    "planetName": "Uranus"
+  },
+  {
+    "name": "Belinda",
+    "diameters": 81,
+    "history": "Belinda was discovered on Jan. 13, 1986 in images taken by Voyager 2. It is one of the 10 Uranian satellites discovered by the Voyager science team.Little is known about Belinda other than its size and orbital characteristics. Based on its low albedo, its surface probably consists of the dark, unprocessed, carbon-rich material found on the C-class of asteroids.",
+    "planetName": "Uranus"
+  },
+  {
+    "name": "Naiad",
+    "diameters": 66,
+    "history": "Naiad was the last moon to be discovered during the Voyager 2 flyby in September 1989. Naiad or Neptune III is the closest moon to Neptune named after the Naiads of Greek legend. The last moon to be discovered during the flyby, it was designated S/1989 N 6.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Thalassa",
+    "diameters": 82,
+    "history": "Thalassa was discovered in August 1989 in images taken by Voyager 2. Thalassa was named after a daughter of Aether and Hemera from Greek mythology. Thalassa is also the Greek word for sea. The moon was originally designated as S/1989 N 5. Thalassa was the primordial goddess (protogenos) of the sea. Mingled with Pontos (Pontus), her male counterpart, she produced the fish and other sea creatures. Thalassa was the literal body of the sea and in the fables of Aesop, manifests as a woman formed of sea-water rising from her native element.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Despina",
+    "diameters": 150,
+    "history": "Despina was discovered in late July 1989 from the images taken by the Voyager 2 probe. It was given the temporary designation S/1989 N 3. The discovery was announced (IAUC 4824) on 2 August 1989, and mentions 10 frames taken over 5 days, implying a discovery date of sometime before July 28.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Galatea",
+    "diameters": 176,
+    "history": "Galatea was discovered in late July 1989 from the images taken by the Voyager 2 probe. It was given the temporary designation S/1989 N 4. The discovery was announced (IAUC 4824) on 2 August 1989, and mentions 10 frames taken over 5 days, implying a discovery date of sometime before July 28.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Larissa",
+    "diameters": 194,
+    "history": "Larissa is another of the small moons found near Neptune's faint ring system in 1989. Similar to Despina and Galatea, Larissa is irregularly shaped and heavily cratered. Larissa, also known as Neptune VII, is the fifth-closest inner satellite of Neptune. It is named after Larissa, a lover of Poseidon (Neptune) in Greek mythology and eponymous nymph of the city in Thessaly, Greece.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Proteus",
+    "diameters": 420,
+    "history": "Proteus was discovered from the images taken by the Voyager 2 space probe two months before its Neptune flyby in August 1989. Proteus was the third moon of Neptune to be discovered, 40 years after the discovery of Neptune's moon Nereid in 1949.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Triton",
+    "diameters": 2750,
+    "history": "Triton was discovered on Oct. 10, 1846 by British astronomer William Lassell, just 17 days after Neptune itself was discovered. Triton is the largest of Neptune's 13 moons. It is unusual because it is the only large moon in our solar system that orbits in the opposite direction of its planet's rotation―a retrograde orbit.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Nereid",
+    "diameters": 340,
+    "history": "Nereid was first seen by Gerard Kuiper in 1949 and was the last satellite of Neptune to be discovered before Voyager 2's discoveries in 1989. Nereid was discovered on May 1, 1949 by Gerard P. Kuiper with a ground-based telescope. It was the last satellite of Neptune to be discovered before Voyager 2's discoveries four decades later.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Halimede",
+    "diameters": 62,
+    "history": "Halimede was discovered Aug. 14, 2002 by Matthew J. Holman, John J. Kavelaars, Tommy Grav, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-meter Blanco telescope at the Cerro Tololo Inter-American Observatory in Chile and the 3.6-meter Canada-France-Hawaii Telescope in Hawaii. Multiple images were digitally combined until stars appeared as streaks, while the moons appeared as points of light.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Sao",
+    "diameters": 44,
+    "history": "Sao was discovered Aug. 14, 2002 by Tommy Grav, Matthew J. Holman, John J. Kavelaars, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-m Blanco telescope at the Cerro Tololo Inter-American Observatory in Chile and the 3.6-m Canada-France-Hawaii Telescope in Hawaii. Multiple images were digitally combined until stars appeared as streaks, while the moons appeared as points of light. Sao, Laomedeia and Halimede were discovered through the use of Earth-based telescopes -- this was the first time a Neptunian moon discovery had occurred by telescope since the discovery of Nereid in 1949 by Gerard Kuiper.",
+    "planetName": "Neptune"
+  }
 ]
