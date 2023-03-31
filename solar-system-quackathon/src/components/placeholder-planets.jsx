@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom";
+import "./placeholder-planets.css";
 import Mercury from "./planets/mercury";
 import Venus from "./planets/venus";
 import Earth from "../components/planets/earth";
@@ -35,7 +36,7 @@ export default function Placeholder() {
   };
 
   return (
-    <div>
+    <div className='planets-homepage'>
       <div className='single-planet' onClick={() => handleClick("mercury")}>
         <Mercury />
       </div>
