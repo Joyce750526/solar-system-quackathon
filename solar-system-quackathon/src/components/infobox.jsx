@@ -1,5 +1,5 @@
 import "./infobox.css";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Axios from "axios";
 
 export default function InfoBox() {
@@ -11,7 +11,7 @@ export default function InfoBox() {
   const handleClick = async tabName => {
     setActiveTab(tabName);
     try {
-      const response = await Axios.get("/moons");
+      const response = await Axios.get("/moon");
       console.log("data:", response.data);
     } catch (error) {
       console.log(error.response.data);

@@ -16,14 +16,14 @@ export default function Home() {
     <>
       <Header />
       <Placeholder />
-      <Mercury />
+      {/* <Mercury />
       <Venus />
       <Earth />
       <Mars />
       <Jupiter />
       <Saturn />
       <Uranus />
-      <Neptune />
+      <Neptune /> */}
       <Footer />
     </>
   );
