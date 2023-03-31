@@ -10,6 +10,7 @@ import Jupiter from "../components/planets/jupiter";
 import Saturn from "../components/planets/saturn";
 import Uranus from "../components/planets/uranus";
 import Neptune from "../components/planets/neptune";
+import "./planet-container.css"
 
 export default function PlanetContainer({ postId }) {
   return (
