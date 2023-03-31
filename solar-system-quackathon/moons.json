@@ -1,191 +1,267 @@
 [
-  {
-    "name": "Moon",
-    "diameters": 78,
-    "history": "This is the only moon of the planet Earth. The earths moon affects the tides of the rivers on earth.",
-    "planetName": "Earth"
-  },
-  {
-    "name": "Phobos",
-    "diameters": 78,
-    "history": "This is one of 2 moons on Mars, It was discovered by the same person who discovered the second moon of Mars.",
-    "planetName": "Mars"
-  },
+    {
+        "name": "Moon",
+        "diameter": 3474.8,
+        "history": "This is the only natural satellite of the planet Earth and is simply called 'the Moon' because people believed it to be the only moon that existed before Galileo Galilei discovered other moons. It is the only place beyond the earth where humans have set foot. The earths moon affects the tides of the rivers on earth.",
+        "planetName": "Earth"
+    },
+    {
+        "name": "Phobos",
+        "diameter": 22.2,
+        "history": "This is the innermost and larger of the two natural satellites of Mars. It was discovered by an American astronomer, Asaph Hall on August 17th, 1877. He named it Phobos (which means 'fear'), after one of the twin sons of the mythological Greek god of war, Ares. He discovered this moon six nights after discovering the other moon of Mars, Deimos. It orbits Mars three times a day which is equivalent to 7.7 Earth hours",
+        "planetName": "Mars"
+    },
+    {
+        "name": "Deimos",
+        "diameter": "12.4",
+        "history": "This is the smaller of two moons that orbit around Mars. It is shaped like a potato and takes about 30 hours to orbit around Mars. It was discovered by an American astronomer, Asaph Hall, on the 12th of August, 1877. He named it Deimos (which means 'to flee' or to 'escape in flight'), after one of the twin sons of the mythological Greek god of war, Ares. It's orbit around Mars is 1.3 Earth days",
+        "planetName": "Mars"
+    },
+    {
+        "name": "Io",
+        "diameter": 3643,
+        "history": "It was discovered by Galileo Galilei on the 7th of January, 1610. It was the first moon discovered to orbit another planet in our solar system outside of Earth. It is named Io, after one of the priestesses of the mythological Greek godess, Hera. Io is the most volcanically active body in the solar system with hundreds of active volcanoes due to the gravitational pull on one side by Jupiter and then the perfectly balanced pull on the other side by two other moons, Ganymede and Europa. Io orbit's around Jupiter in 1.77 Earth days.",
+        "planetName": "Jupiter"
+    },
+    {
+        "name": "Europa",
+        "diameter": 22.2,
+        "history": "It was discovered by Galileo Galilei on the 8th of January, 1610. Europa orbits around Jupiter in 85 Earth hours. Europa was named after a mythological woman who was supposed to have been abducted by the god Zeus. In Roman mythology, the named the same god Jupiter. Europa is covered in ice which gives it a reflective ability to appear bright.",
+        "planetName": "Jupiter"
+    },
+    {
+        "name": "Callisto",
+        "diameter": 4820.6,
+        "history": "Callisto was discovered by Galileo Galilei on the 7th of January, 1610. It orbits around Jupiter in 16.69 Earth days. Callisto is the name of a mythological Greek nymph that Zeus, the king of the gods, fell in love with. Zeus' wife, Hera, changed her into a bear and then Zeus turned her into a star and put her high up in the sky.",
+        "planetName": "Jupiter"
+    },
+    {
+        "name": "Ganymede",
+        "diameter": 5262.4,
+        "history": "Ganymede is the largest moon in our solar system. It was discovered by Galileo Galilei on the 7th of January, 1610. It orbits around Jupiter in 7.16 Earth days.Ganymede was named after a Greek mythological young, beautiful Trojan prince who was taken to Olympus by the Greek god Zeus, disguised as an eagle. Ganymede took on the job of being the cupbearer for the gods of Olympus.",
+        "planetName": "Jupiter"
+    },
+    {
+        "name": "Amalthea",
+        "diameter": 167,
+        "history": "Amalthea was formerly called 'Jupiter V' before 1976. It was discovered on the 9th of September, 1892 by Edward Emerson Barnard. It is named after the nymph from the Greek mythology, Amalthea, who nursed the infant Zeus with goat's milk. It orbits Jupiter about 12 Earth hours.",
+        "planetName": "Jupiter"
+    },
+    {
+        "name": "Metis",
+        "diameter": 43,
+        "history": "Metis is the innermost known moon of Jupiter and it is also known as 'Jupiter XVI'. It was discovered in March, 1979 by Stephen P. Synnott. It was named after the first wife of the Greek mythological god, Zeus. It orbits Jupiter about 5 Earth hours.",
+        "planetName": "Jupiter"
+    },
+    {
+        "name": "Adrastea",
+        "diameter": 16.4,
+        "history": "It was in photographs taken by 'voyager 2' in 1979 making it the first natural satellite to be taken from a spacecraft rather than a telescope. It was named after Adrasteia, the Cretian nymph foster mother of the Greek mythological god, Zeus. It orbits Jupiter about 7 Earth hours.",
+        "planetName": "Jupiter"
+    },
+    {
+        "name": "Thebe",
+        "diameter": 98.6,
+        "history": "Thebe was discovered in 1980 by the Voyager science team from images taken by Voyager 1. It was named by association to the mythological Roman god, Jupiter — or his Greek equivalent, Zeus — in a variety of ways in different myths. In one, Thebe was a nymph who was a love of Zeus. In another, she was an Egyptian king's daughter and a love of Jupiter. It orbits Jupiter about 16 Earth hours.",
+        "planetName": "Jupiter"
+    },
+    {
+        "name": "Himalia",
+        "diameter": 140,
+        "history": "Himalia, also known as 'Jupiter VI', was discovered on the 3rd of December, 1904 by Charles Dillon Perrine. Himalia was named for a Greek mythological nymph of the island of Rhodes in Greek mythology who was one of the lovers of Zeus. It orbits Jupiter about 251 Earth days.",
+        "planetName": "Jupiter"
+    },
+    {
+        "name": "Leda",
+        "diameter": 20,
+        "history": "Leda, also known as 'Jupiter XIII', was discovered by Charles T. Kowal on the 14th of September, 1974. It was named after a woman, Leda, who was seduced by the mythological Greek god, Zeus, in the form of a swan. It takes nearly 241 Earth days to complete it's orbit around Jupiter.",
+        "planetName": "Jupiter"
+    },
+    {
+        "name": "Titan",
+        "diameter": 5149.4,
+        "history": "Titan is the largest moon of Saturn and the only moon in our solar system with a substantial atmosphere. It was discovered by the Dutch astronomer, Christiaan Huygens, in 1655. Titan, like many objects in our solar system, took its name from Greek mythology. The Titans were the oldest gods that ruled over the universe before the Olympians. It takes about 15 days and 22 Earth hours to complete it's orbit around Saturn.",
+        "planetName": "Saturn"
+    },
+    {
+        "name": "Enceladus",
+        "diameter": 504,
+        "history": "Enceladus is the most reflective surface in the solar system and is completely covered in ice. It was dicovered by William Hersche on the 28th of August, 1789. As it orbits around Saturn it blasts icy particles out into space and creates its own ring called Saturn's E ring. It was named after Enceladus, which is the Roman name for the Greek mythological giant, Cronus. it takes about 33 Earth hours to go around Saturn",
+        "planetName": "Saturn"
+    },
+    {
+        "name": "Dione",
+        "diameter": 1122.8,
+        "history": "Dione, also known as 'Saturn IV' was discovered by Giovanni Cassini on the 21st of March, 1684. It gets it's name form the Greek mythical Titan godess, Dione, who was described as the mother of Aphrodite by Homer. It takes about 66 Earth hours to complete it's orbit around Saturn.",
+        "planetName": "Saturn"
+    },
+    {
+        "name": "Rhea",
+        "diameter": 1528.6,
+        "history": "Rhea is a small, cold, airless body that was discovered by Giovanni Cassini on the 23rd of Dec, 1672. The name Rhea comes from the Greek Titan goddess Rhea, who is the wife of Kronus and the mother of many gods including Zeus. It takes about 4 days and 12 Earth hours to complete it's orbit around Saturn.",
+        "planetName": "Saturn"
+    },
+    {
+        "name": "Mimas",
+        "diameter": 396.4,
+        "history": "Mimas, also known as 'Saturn I', is the innermost of Saturn's major moons. It was discovered by William Herschel on the 17th of September, 1789. It is named after the mythological giant Mimas, who was killed by Mars in the war between the Titans and the gods of Olympus. Even after his death, Mimas' legs - which were serpents - hissed vengeance and sought to attack his killer. It takes about 23 Earth hours to complete it's orbit around Saturn.",
+        "planetName": "Saturn"
+    },
+    {
+        "name": "Iapetus",
+        "diameter": 1471.2,
+        "history": "Iapetus, an oddly shaped and coloured moon, was discovered by Giovanni D. Cassini on the 25th of October, 1671. The name Iapetus is from the mythological brother of Kronus, and father of Prometheus and Atlas. Greeks thought of Iapetus as the father of the human race since he was the father of Prometheus. It takes about 79 days and 3 Earth hours to complete it's orbit around Saturn.",
+        "planetName": "Saturn"
+    },
+    {
+        "name": "Hyperion",
+        "diameter": 270,
+        "history": "Hyperion, also known as 'Saturn VII', is an irregular shaped moon that was first discovered on the 16th of September, 1848 by William Lassell. It is the second largest moon in our solar system. The name Hyperion comes from the Greek Titan god Hyperion (he who watches over). Hyperion is a brother of Kronus and the husband of Thea. The children of Hyperion and Thea include Helios (the sun), Eos (the dawn) and Selene (the Moon). It takes about 21 Earth days to complete it's orbit around Saturn.",
+        "planetName": "Saturn"
+    },
+    {
+        "name": "Tethys",
+        "diameter": 1062,
+        "history": "Tethys, also know as 'Saturn III', was discovered by Giovanni D. Cassini on the 21st of March, 1684. It's name comes from the Greek Titan goddess, Tethys, who was a sister to Kronus and the wife of Oceanus. She was said to be the mother of the chief rivers, the mother of three thousand daughters called the Oceanids and the embodiment of the waters of the world. It takes about 45 Earth hours to complete it's orbit around Saturn.",
+        "planetName": "Saturn"
+    },
+    {
+        "name": "Prometheus",
+        "diameter": 86.2,
+        "history": "Prometheus was discovered in October 1980 by the Voyager 1 science team. The name Prometheus is from the son of the Titan Iapetus and is best known in Greek mythology for stealing fire from the gods and giving it to humanity. It takes about 14.7 hours to go around Saturn.",
+        "planetName": "Saturn"
+    },
+    {
+        "name": "Phoebe",
+        "diameter": 213,
+        "history": "Phoebe was discovered in August, 1898 by American astronomer William Pickering. Phoebe is another name for the Greek goddess called Artemis and the Romans called Diana. She was the youthful goddess of Earth's Moon, forests, wild animals, and hunting. It takes about 551 Earth days to complete it's orbit around Saturn (18 Months)",
+        "planetName": "Saturn"
+    },
+    {
+        "name": "Pan",
+        "diameter": 28.2,
+        "history": "Pan, the innermost known moon of Saturn was discovered in 1990 by M.R. Showalter using images from the 'Voyager 2' spacecraft. This moon gets it's name from the Greek mythological god of nature and forest, Pan, a satyr (a creature resembling a man with the hind legs and hooves of a goat). It takes about 14 Earth hours to complete it's orbit around Saturn.",
+        "planetName": "Saturn"
+    },
+    {
+        "name": "Cordelia",
+        "diameter": 40,
+        "history": "Cordelia is the innermost known moon of Uranus. It was discovered from the images taken by Voyager 2 on January 20, 1986, and was given the temporary designation S/1986 U 7. It was not detected again until the Hubble Space Telescope observed it in 1997.",
+        "planetName": "Uranus"
+    },
+    {
+        "name": "Ophelia2",
+        "diameter": 43,
+        "history": "Ophelia is a moon of Uranus. It was discovered from the images taken by Voyager 2 on January 20, 1986, and was given the temporary designation S/1986 U 8. It was not seen until the Hubble Space Telescope recovered it in 2003.",
+        "planetName": "Uranus"
+    },
+    {
+        "name": "Bianca3",
+        "diameter": 51,
+        "history": "Bianca is an inner satellite of Uranus. It was discovered from the images taken by Voyager 2 on January 23, 1986, and was given the temporary designation S/1986 U 9. It was named after the sister of Katherine in Shakespeare's play The Taming of the Shrew.",
+        "planetName": "Uranus"
+    },
+    {
+        "name": "Cressida4",
+        "diameter": 80,
+        "history": "Cressida is an inner satellite of Uranus. It was discovered from the images taken by Voyager 2 on 9 January 1986, and was given the temporary designation S/1986 U 3.It was named after Cressida, the Trojan daughter of Calchas, a tragic heroine who appears in William Shakespeare's play Troilus and Cressida (as well as in tales by Geoffrey Chaucer and others). It is also designated Uranus IX.",
+        "planetName": "Uranus"
+    },
 
-  {
-    "name": "Deimos",
-    "diameters": 78,
-    "history": "Marxism bushwick pug williamsburg iceland woke intelligentsia",
-    "planetName": "Mars"
-  },
-
-  {
-    "name": "Io",
-    "diameters": 43441,
-    "history": "I'm baby marxism bushwick pug williamsburg iceland woke intelligentsia",
-    "planetName": "Earth"
-  },
-  {
-    "name": "Europa",
-    "diameters": 365,
-    "history": " Readymade celiac DIY offal jianbing shaman vexillologist hell of leggings biodiesel small batch chia marxism. Roof party narwhal listicle, forage next level stumptown year.",
-    "planetName": "Earth"
-  },
-  {
-    "name": "Callisto",
-    "diameters": 365,
-    "history": "Humblebrag glossier selvage ascot subway tile you probably haven't heard of them meditation godard.",
-    "planetName": "Earth"
-  },
-  {
-    "name": "Puck",
-    "diameters": 365,
-    "history": "Blog af biodiesel, bespoke subway tile put a bird on it wayfarers post-ironic vape taiyaki VHS distillery pug viral. Slow-carb blackbird spyplane gochujang, edison bulb flannel echo park pour-over marxism try-hard leggings shoreditch",
-    "planetName": "Earth"
-  },
-  {
-    "name": "Umbriel",
-    "diameters": 155,
-    "history": " Edison bulb cold-pressed marfa biodiesel skateboard taiyaki cupping pinterest activated charcoal cornhole. Vape keffiyeh cupping air plant whatever.",
-    "planetName": "Earth"
-  },
-  {
-    "name": "Oberon",
-    "diameters": 46,
-    "history": "Forage mukbang hammock grailed tumblr. Gastropub franzen vape locavore, hammock gluten-free bespoke hexagon palo santo pug.",
-    "planetName": "Earth"
-  },
-  {
-    "name": "Nereid",
-    "diameters": 895,
-    "history": "Bespoke plaid actually synth, woke brunch iPhone. Blackbird spyplane keytar shabby chic celiac bitters poutine roof party pok pok man braid humblebrag. Vice twee selfies tbh, bicycle rights sriracha beard lo-fi tacos affogato crucifix.",
-    "planetName": "Earth"
-  },
-  {
-    "name": "Neso",
-    "diameters": 60,
-    "history": "Banjo snackwave grailed twee same vaporware kale chips +1 pok pok banh mi skateboard marfa unicorn keytar solarpunk. Ascot health goth af slow-carb, letterpress cliche occupy photo booth polaroid vinyl. Beard biodiesel blog, cred cornhole man braid gatekeep thundercats VHS direct trade hella air plant coloring book truffaut JOMO.",
-    "planetName": "Earth"
-  },
-  {
-    "name": "Cordelia",
-    "diameters": 40,
-    "history": "Cordelia is the innermost known moon of Uranus. It was discovered from the images taken by Voyager 2 on January 20, 1986, and was given the temporary designation S/1986 U 7. It was not detected again until the Hubble Space Telescope observed it in 1997.",
-    "planetName": "Uranus"
-  },
-  {
-    "name": "Ophelia2",
-    "diameters": 43,
-    "history": "Ophelia is a moon of Uranus. It was discovered from the images taken by Voyager 2 on January 20, 1986, and was given the temporary designation S/1986 U 8. It was not seen until the Hubble Space Telescope recovered it in 2003.",
-    "planetName": "Uranus"
-  },
-  {
-    "name": "Bianca3",
-    "diameters": 51,
-    "history": "Bianca is an inner satellite of Uranus. It was discovered from the images taken by Voyager 2 on January 23, 1986, and was given the temporary designation S/1986 U 9. It was named after the sister of Katherine in Shakespeare's play The Taming of the Shrew.",
-    "planetName": "Uranus"
-  },
-  {
-    "name": "Cressida4",
-    "diameters": 80,
-    "history": "Cressida is an inner satellite of Uranus. It was discovered from the images taken by Voyager 2 on 9 January 1986, and was given the temporary designation S/1986 U 3.It was named after Cressida, the Trojan daughter of Calchas, a tragic heroine who appears in William Shakespeare's play Troilus and Cressida (as well as in tales by Geoffrey Chaucer and others). It is also designated Uranus IX.",
-    "planetName": "Uranus"
-  },
-
-  {
-    "name": "Portia",
-    "diameters": 135,
-    "history": "Portia was discovered January 1986 by the Voyager 2 spacecraft during its flyby of Uranus. Portia is an inner satellite of Uranus and it was given the temporary designation S/1986 U 1. The moon is named after Portia, the heroine of William Shakespeare's play The Merchant of Venice. It is also designated Uranus XII.",
-    "planetName": "Uranus"
-  },
+    {
+        "name": "Portia",
+        "diameter": 135,
+        "history": "Portia was discovered January 1986 by the Voyager 2 spacecraft during its flyby of Uranus. Portia is an inner satellite of Uranus and it was given the temporary designation S/1986 U 1. The moon is named after Portia, the heroine of William Shakespeare's play The Merchant of Venice. It is also designated Uranus XII.",
+        "planetName": "Uranus"
+    },
   {
     "name": "Juliet",
-    "diameters": 94,
+    "diameter": 94,
     "history": "Juliet was discovered on Jan. 3, 1986 in images taken by Voyager 2 seience team, was given the temporary designation S/1986 U 2.It is one of the 10 Uranian satellites discovered by the Voyager science team.Juliet is an inner satellite of Uranus. It is named after the heroine of William Shakespeare's play Romeo and Juliet. It is also designated Uranus XI.",
     "planetName": "Uranus"
   },
   {
     "name": "Rosalind",
-    "diameters": 72,
+    "diameter": 72,
     "history": "Rosalind was discovered by the Voyager 2 science team on 13 January 1986, and was given the temporary designation S/1986 U 4. Rosalind is an inner satellite of Uranus. It was named after the daughter of the banished Duke in William Shakespeare's play As You Like It. It is also designated Uranus XIII.",
     "planetName": "Uranus"
   },
   {
     "name": "Desdemona5",
-    "diameters": 64,
+    "diameter": 64,
     "history": "Desdemona is an inner satellite of Uranus. It was discovered from the images taken by Voyager 2 on 13 January 1986, and was given the temporary designation S/1986 U 6. Desdemona is named after the wife of Othello in William Shakespeare's play Othello. It is also designated Uranus X.",
     "planetName": "Uranus"
   },
   {
     "name": "Cupid",
-    "diameters": 36,
+    "diameter": 36,
     "history": "Cupid was discovered on Aug. 25, 2003 by M.R. Showalter and J.J. Lissauer, using the Hubble Space Telescope. Cupid is an inner satellite of Uranus. It was discovered by Mark R. Showalter and Jack J. Lissauer in 2003 using the Hubble Space Telescope. It was named after a character in William Shakespeare's play Timon of Athens. It is the smallest known inner Uranian satellite.",
     "planetName": "Uranus"
   },
   {
     "name": "Belinda",
-    "diameters": 81,
+    "diameter": 81,
     "history": "Belinda was discovered on Jan. 13, 1986 in images taken by Voyager 2. It is one of the 10 Uranian satellites discovered by the Voyager science team.Little is known about Belinda other than its size and orbital characteristics. Based on its low albedo, its surface probably consists of the dark, unprocessed, carbon-rich material found on the C-class of asteroids.",
     "planetName": "Uranus"
   },
   {
     "name": "Naiad",
-    "diameters": 66,
+    "diameter": 66,
     "history": "Naiad was the last moon to be discovered during the Voyager 2 flyby in September 1989. Naiad or Neptune III is the closest moon to Neptune named after the Naiads of Greek legend. The last moon to be discovered during the flyby, it was designated S/1989 N 6.",
     "planetName": "Neptune"
   },
   {
     "name": "Thalassa",
-    "diameters": 82,
+    "diameter": 82,
     "history": "Thalassa was discovered in August 1989 in images taken by Voyager 2. Thalassa was named after a daughter of Aether and Hemera from Greek mythology. Thalassa is also the Greek word for sea. The moon was originally designated as S/1989 N 5. Thalassa was the primordial goddess (protogenos) of the sea. Mingled with Pontos (Pontus), her male counterpart, she produced the fish and other sea creatures. Thalassa was the literal body of the sea and in the fables of Aesop, manifests as a woman formed of sea-water rising from her native element.",
     "planetName": "Neptune"
   },
   {
     "name": "Despina",
-    "diameters": 150,
+    "diameter": 150,
     "history": "Despina was discovered in late July 1989 from the images taken by the Voyager 2 probe. It was given the temporary designation S/1989 N 3. The discovery was announced (IAUC 4824) on 2 August 1989, and mentions 10 frames taken over 5 days, implying a discovery date of sometime before July 28.",
     "planetName": "Neptune"
   },
   {
     "name": "Galatea",
-    "diameters": 176,
+    "diameter": 176,
     "history": "Galatea was discovered in late July 1989 from the images taken by the Voyager 2 probe. It was given the temporary designation S/1989 N 4. The discovery was announced (IAUC 4824) on 2 August 1989, and mentions 10 frames taken over 5 days, implying a discovery date of sometime before July 28.",
     "planetName": "Neptune"
   },
   {
     "name": "Larissa",
-    "diameters": 194,
+    "diameter": 194,
     "history": "Larissa is another of the small moons found near Neptune's faint ring system in 1989. Similar to Despina and Galatea, Larissa is irregularly shaped and heavily cratered. Larissa, also known as Neptune VII, is the fifth-closest inner satellite of Neptune. It is named after Larissa, a lover of Poseidon (Neptune) in Greek mythology and eponymous nymph of the city in Thessaly, Greece.",
     "planetName": "Neptune"
   },
   {
     "name": "Proteus",
-    "diameters": 420,
+    "diameter": 420,
     "history": "Proteus was discovered from the images taken by the Voyager 2 space probe two months before its Neptune flyby in August 1989. Proteus was the third moon of Neptune to be discovered, 40 years after the discovery of Neptune's moon Nereid in 1949.",
     "planetName": "Neptune"
   },
   {
     "name": "Triton",
-    "diameters": 2750,
+    "diameter": 2750,
     "history": "Triton was discovered on Oct. 10, 1846 by British astronomer William Lassell, just 17 days after Neptune itself was discovered. Triton is the largest of Neptune's 13 moons. It is unusual because it is the only large moon in our solar system that orbits in the opposite direction of its planet's rotation―a retrograde orbit.",
     "planetName": "Neptune"
   },
   {
     "name": "Nereid",
-    "diameters": 340,
+    "diameter": 340,
     "history": "Nereid was first seen by Gerard Kuiper in 1949 and was the last satellite of Neptune to be discovered before Voyager 2's discoveries in 1989. Nereid was discovered on May 1, 1949 by Gerard P. Kuiper with a ground-based telescope. It was the last satellite of Neptune to be discovered before Voyager 2's discoveries four decades later.",
     "planetName": "Neptune"
   },
-  {
-    "name": "Halimede",
-    "diameters": 62,
-    "history": "Halimede was discovered Aug. 14, 2002 by Matthew J. Holman, John J. Kavelaars, Tommy Grav, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-meter Blanco telescope at the Cerro Tololo Inter-American Observatory in Chile and the 3.6-meter Canada-France-Hawaii Telescope in Hawaii. Multiple images were digitally combined until stars appeared as streaks, while the moons appeared as points of light.",
-    "planetName": "Neptune"
-  },
-  {
-    "name": "Sao",
-    "diameters": 44,
-    "history": "Sao was discovered Aug. 14, 2002 by Tommy Grav, Matthew J. Holman, John J. Kavelaars, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-m Blanco telescope at the Cerro Tololo Inter-American Observatory in Chile and the 3.6-m Canada-France-Hawaii Telescope in Hawaii. Multiple images were digitally combined until stars appeared as streaks, while the moons appeared as points of light. Sao, Laomedeia and Halimede were discovered through the use of Earth-based telescopes -- this was the first time a Neptunian moon discovery had occurred by telescope since the discovery of Nereid in 1949 by Gerard Kuiper.",
-    "planetName": "Neptune"
-  }
+    {
+        "name": "Halimede",
+        "diameter": 62,
+        "history": "Halimede was discovered Aug. 14, 2002 by Matthew J. Holman, John J. Kavelaars, Tommy Grav, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-meter Blanco telescope at the Cerro Tololo Inter-American Observatory in Chile and the 3.6-meter Canada-France-Hawaii Telescope in Hawaii. Multiple images were digitally combined until stars appeared as streaks, while the moons appeared as points of light.",
+        "planetName": "Neptune"
+    },
+    {
+        "name": "Sao",
+        "diameter": 44,
+        "history": "Sao was discovered Aug. 14, 2002 by Tommy Grav, Matthew J. Holman, John J. Kavelaars, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-m Blanco telescope at the Cerro Tololo Inter-American Observatory in Chile and the 3.6-m Canada-France-Hawaii Telescope in Hawaii. Multiple images were digitally combined until stars appeared as streaks, while the moons appeared as points of light. Sao, Laomedeia and Halimede were discovered through the use of Earth-based telescopes -- this was the first time a Neptunian moon discovery had occurred by telescope since the discovery of Nereid in 1949 by Gerard Kuiper.",
+        "planetName": "Neptune"
+    }
 ]

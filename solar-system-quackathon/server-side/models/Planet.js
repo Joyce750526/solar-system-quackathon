@@ -14,7 +14,7 @@ const planetSchema = new Schema({
   facts: {
     type: [String],
   },
-  state: {
+  State: {
     type: String,
     enum: {
       values: ['Solid', 'Gas'],

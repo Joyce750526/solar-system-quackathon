@@ -1,6 +1,7 @@
 import express from "express";
 const app = express();
 import mongoose from "mongoose";
+// import cors from "cors"
 import dotenv from "dotenv";
 import homeRoute from "./routes/home.js";
 const PORT = process.env.PORT || 3000;
