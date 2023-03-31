@@ -1,0 +1,11 @@
+/* Starting style for this page. Needs to be modified or fleshed out */
+
+.planet-page {
+  display: flex;
+}
+
+.planet-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}

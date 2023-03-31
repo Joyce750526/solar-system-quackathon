@@ -1,0 +1,6 @@
+/* This style is here because the planets in the homepage need to be placed horizontally.
+  But it's not a perfect solution yet.
+*/
+.planets-homepage {
+  display: flex;
+}
