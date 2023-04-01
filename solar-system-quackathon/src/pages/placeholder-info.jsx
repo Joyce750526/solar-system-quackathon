@@ -1,4 +1,6 @@
 import { useEffect, useState } from "react";
+import "../components/planet-container.css"
+import "./home.css"
 import "./placeholder-info.css";
 import { useParams } from "react-router-dom";
 import Axios from "axios";
