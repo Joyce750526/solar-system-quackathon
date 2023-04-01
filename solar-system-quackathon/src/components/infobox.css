@@ -2,6 +2,10 @@
   display: none !important;
 }
 
+.planet-facts {
+  margin: 4rem;
+}
+
 .container {
   background: lightgray;
   color: black;

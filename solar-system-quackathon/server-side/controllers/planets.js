@@ -14,7 +14,6 @@ export const getPlanets = async (req, res) => {
 //* GET: getting the moon info
 export const getMoons = async (req, res) => {
   try {
-    // still working on connecting the moons to their respective planets
     const moons = await Moons.find();
     res.status(200).json(moons);
   } catch (err) {

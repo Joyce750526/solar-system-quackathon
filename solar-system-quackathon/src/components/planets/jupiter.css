@@ -1,5 +1,6 @@
-#jupiter {
+#jupiter2 {
     width: 20rem;
     height: 20rem;
     background: radial-gradient(circle at 2rem 10rem, hsl(23, 83%, 72%) 0%, hsl(0, 0%, 10%) 95%);
+    border-radius: 50%;
 }

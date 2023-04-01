@@ -1,9 +1,12 @@
-#saturn-container {
+#saturn-container2 {
+    position: relative;
     width: 25.5rem;
     height: 19rem;
+    margin-left: -2.5rem;
+    margin-right: 1.5rem;
 }
 
-#saturn {
+#saturn2 {
     position: absolute;
     left: 6rem;
     margin: 1rem .25rem 0rem;
@@ -11,9 +14,10 @@
     height: 17rem;
     background: radial-gradient(circle at 2rem 10rem, hsl(41, 85%, 74%) 0%, hsl(0, 0%, 10%) 95%);
     transform: rotate(25deg);
+    border-radius: 50%;
 }
 
-#saturn-rings {
+#saturn-rings2 {
     position: absolute;
     background-color: transparent;
     border-radius: 50%;
@@ -25,7 +29,7 @@
     border:hsla(0, 0%, 78%, 0.5) solid 3rem;
 }
 
-#saturn-hiding {
+#saturn-hiding2 {
     position: absolute;
     width: 17rem;
     height: 8.5rem;
