@@ -68,78 +68,68 @@
     "planetName": "Earth"
   },
   {
-    "name": "Cordelia",
-    "diameters": 40,
-    "history": "Cordelia is the innermost known moon of Uranus. It was discovered from the images taken by Voyager 2 on January 20, 1986, and was given the temporary designation S/1986 U 7. It was not detected again until the Hubble Space Telescope observed it in 1997.",
+    "name": "Cupid",
+    "diameters": 36,
+    "history": "Cupid (2003 U2) was discovered by M.R. Showalter and J.J. Lissauer using the Hubble Space Telescope on Aug. 25, 2003. Cupid was originally called S/2003 U2 and was named for the Roman god of love, who appears in William Shakespeare's play, Timon of Athens (in keeping with the custom of naming most of Uranus' moons after Shakespearean characters).",
     "planetName": "Uranus"
   },
-  {
-    "name": "Ophelia2",
-    "diameters": 43,
-    "history": "Ophelia is a moon of Uranus. It was discovered from the images taken by Voyager 2 on January 20, 1986, and was given the temporary designation S/1986 U 8. It was not seen until the Hubble Space Telescope recovered it in 2003.",
-    "planetName": "Uranus"
-  },
-  {
-    "name": "Bianca3",
-    "diameters": 51,
-    "history": "Bianca is an inner satellite of Uranus. It was discovered from the images taken by Voyager 2 on January 23, 1986, and was given the temporary designation S/1986 U 9. It was named after the sister of Katherine in Shakespeare's play The Taming of the Shrew.",
-    "planetName": "Uranus"
-  },
-  {
-    "name": "Cressida4",
-    "diameters": 80,
-    "history": "Cressida is an inner satellite of Uranus. It was discovered from the images taken by Voyager 2 on 9 January 1986, and was given the temporary designation S/1986 U 3.It was named after Cressida, the Trojan daughter of Calchas, a tragic heroine who appears in William Shakespeare's play Troilus and Cressida (as well as in tales by Geoffrey Chaucer and others). It is also designated Uranus IX.",
-    "planetName": "Uranus"
-  },
-
   {
     "name": "Portia",
     "diameters": 135,
-    "history": "Portia was discovered January 1986 by the Voyager 2 spacecraft during its flyby of Uranus. Portia is an inner satellite of Uranus and it was given the temporary designation S/1986 U 1. The moon is named after Portia, the heroine of William Shakespeare's play The Merchant of Venice. It is also designated Uranus XII.",
+    "history": "Portia (1986 U1) was discovered in the images taken by the Voyager science team on Jan. 3, 1986. Portia was originally called S/1986 U1 and was named after Portia, the heroine of William Shakespeare's 16th-century play, The Merchant of Venice.",
     "planetName": "Uranus"
   },
   {
     "name": "Juliet",
     "diameters": 94,
-    "history": "Juliet was discovered on Jan. 3, 1986 in images taken by Voyager 2 seience team, was given the temporary designation S/1986 U 2.It is one of the 10 Uranian satellites discovered by the Voyager science team.Juliet is an inner satellite of Uranus. It is named after the heroine of William Shakespeare's play Romeo and Juliet. It is also designated Uranus XI.",
+    "history": "Juliet (1986 U2) was discovered in the images taken by the Voyager science team on Jan. 3, 1986. Juliet was originally called S/1986 U2 and was named for the title character in William Shakespeare's play, Romeo and Juliet. Juliet is the daughter of the Capulets, who are sworn enemies of the Montagues.",
     "planetName": "Uranus"
   },
+  {
+    "name": "Cressida",
+    "diameters": 80,
+    "history": "Cressida (1986 U3) was discovered in the images taken by the Voyager science team on Jan. 9, 1986. Cressida was originally called S/1986 U3 and was named for the title character in William Shakespeare's play, Troilus and Cressida.",
+    "planetName": "Uranus"
+  },
+
   {
     "name": "Rosalind",
     "diameters": 72,
-    "history": "Rosalind was discovered by the Voyager 2 science team on 13 January 1986, and was given the temporary designation S/1986 U 4. Rosalind is an inner satellite of Uranus. It was named after the daughter of the banished Duke in William Shakespeare's play As You Like It. It is also designated Uranus XIII.",
-    "planetName": "Uranus"
-  },
-  {
-    "name": "Desdemona5",
-    "diameters": 64,
-    "history": "Desdemona is an inner satellite of Uranus. It was discovered from the images taken by Voyager 2 on 13 January 1986, and was given the temporary designation S/1986 U 6. Desdemona is named after the wife of Othello in William Shakespeare's play Othello. It is also designated Uranus X.",
-    "planetName": "Uranus"
-  },
-  {
-    "name": "Cupid",
-    "diameters": 36,
-    "history": "Cupid was discovered on Aug. 25, 2003 by M.R. Showalter and J.J. Lissauer, using the Hubble Space Telescope. Cupid is an inner satellite of Uranus. It was discovered by Mark R. Showalter and Jack J. Lissauer in 2003 using the Hubble Space Telescope. It was named after a character in William Shakespeare's play Timon of Athens. It is the smallest known inner Uranian satellite.",
+    "history": "Rosalind (1986 U4) was discovered in the images taken by the Voyager science team on Jan. 13, 1986. Rosalind  was originally called S/1986 U4 and was named for the daughter of a banished Duke in Shakespeare's play.",
     "planetName": "Uranus"
   },
   {
     "name": "Belinda",
     "diameters": 81,
-    "history": "Belinda was discovered on Jan. 13, 1986 in images taken by Voyager 2. It is one of the 10 Uranian satellites discovered by the Voyager science team.Little is known about Belinda other than its size and orbital characteristics. Based on its low albedo, its surface probably consists of the dark, unprocessed, carbon-rich material found on the C-class of asteroids.",
+    "history": "Belinda (1986 U5) was discovered in the images taken by the Voyager science team  on Jan. 13, 1986. Belinda was originally called S/1986 U5 and was named after the character whose lock of hair is stolen in Alexander Pope's Rape of the Lock."​,
     "planetName": "Uranus"
   },
   {
-    "name": "Naiad",
-    "diameters": 66,
-    "history": "Naiad was the last moon to be discovered during the Voyager 2 flyby in September 1989. Naiad or Neptune III is the closest moon to Neptune named after the Naiads of Greek legend. The last moon to be discovered during the flyby, it was designated S/1989 N 6.",
-    "planetName": "Neptune"
+    "name": "Desdemona",
+    "diameters": 64,
+    "history": "Desdemona (1986 U6) was discovered in the images taken by the Voyager science team on Jan. 13, 1986. Desdemona was originally called S/1986 U6 and was named after the wife of Othello in William Shakespeare's play, Othello, the Moor of Venice. Desdemona is the daughter of a Venetian senator.",
+    "planetName": "Uranus"
   },
   {
-    "name": "Thalassa",
-    "diameters": 82,
-    "history": "Thalassa was discovered in August 1989 in images taken by Voyager 2. Thalassa was named after a daughter of Aether and Hemera from Greek mythology. Thalassa is also the Greek word for sea. The moon was originally designated as S/1989 N 5. Thalassa was the primordial goddess (protogenos) of the sea. Mingled with Pontos (Pontus), her male counterpart, she produced the fish and other sea creatures. Thalassa was the literal body of the sea and in the fables of Aesop, manifests as a woman formed of sea-water rising from her native element.",
-    "planetName": "Neptune"
+    "name": "Cordelia",
+    "diameters": 40,
+    "history": "Cordelia (1986 U7) and Ophelia (1986 U8) were both discovered in the images taken by the Voyager science team on Jan. 20, 1986. It was not detected again until the Hubble Space Telescope observed it in 1997. It is the closest moon to the planets. Cordelia was originally called S/1986 U7 and was named for one of the youngest daughters of King Lear in William Shakespeare's play of the same name.",
+    "planetName": "Uranus"
   },
+  {
+    "name": "Ophelia",
+    "diameters": 43,
+    "history": "Ophelia (1986 U8) and Cordelia (1986 U7) were both discovered in the images taken by the Voyager science team on Jan. 20, 1986. Ophelia was originally called S/1986 U8 and was named for the character of Ophelia in Shakespeare's Hamlet. Ophelia is the daughter of Polonius and the fiance of Hamlet in the play.",
+    "planetName": "Uranus"
+  },
+  {
+    "name": "Bianca",
+    "diameters": 51,
+    "history": "Bianca (1986 U9) was discovered in the images taken by the Voyager science team on Jan. 23, 1986. Bianca was originally called S/1986 U9 and was named after the sister of Katharina (Kate) in Shakespeare's play, The Taming of the Shrew.",
+    "planetName": "Uranus"
+  },
+ 
+ 
   {
     "name": "Despina",
     "diameters": 150,
@@ -152,6 +142,19 @@
     "history": "Galatea was discovered in late July 1989 from the images taken by the Voyager 2 probe. It was given the temporary designation S/1989 N 4. The discovery was announced (IAUC 4824) on 2 August 1989, and mentions 10 frames taken over 5 days, implying a discovery date of sometime before July 28.",
     "planetName": "Neptune"
   },
+  {
+    "name": "Thalassa",
+    "diameters": 82,
+    "history": "Thalassa was discovered in August 1989 in images taken by Voyager 2. Thalassa was named after a daughter of Aether and Hemera from Greek mythology. Thalassa is also the Greek word for sea. The moon was originally designated as S/1989 N 5. Thalassa was the primordial goddess (protogenos) of the sea. Mingled with Pontos (Pontus), her male counterpart, she produced the fish and other sea creatures. Thalassa was the literal body of the sea and in the fables of Aesop, manifests as a woman formed of sea-water rising from her native element.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Naiad",
+    "diameters": 66,
+    "history": "Naiad was the last moon to be discovered during the Voyager 2 flyby in September 1989. Naiad or Neptune III is the closest moon to Neptune named after the Naiads of Greek legend. The last moon to be discovered during the flyby, it was designated S/1989 N 6.",
+    "planetName": "Neptune"
+  },
+
   {
     "name": "Larissa",
     "diameters": 194,
