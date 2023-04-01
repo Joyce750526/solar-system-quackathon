@@ -101,7 +101,7 @@
   {
     "name": "Belinda",
     "diameters": 81,
-    "history": "Belinda (1986 U5) was discovered in the images taken by the Voyager science team  on Jan. 13, 1986. Belinda was originally called S/1986 U5 and was named after the character whose lock of hair is stolen in Alexander Pope's Rape of the Lock."​,
+    "history": "Belinda (1986 U5) was discovered in the images taken by the Voyager science team on January 13, 1986. Belinda was originally called S/1986 U5 and was named after the character whose lock of hair is stolen in Alexander Pope's Rape of the Lock.",
     "planetName": "Uranus"
   },
   {
@@ -128,67 +128,65 @@
     "history": "Bianca (1986 U9) was discovered in the images taken by the Voyager science team on Jan. 23, 1986. Bianca was originally called S/1986 U9 and was named after the sister of Katharina (Kate) in Shakespeare's play, The Taming of the Shrew.",
     "planetName": "Uranus"
   },
- 
- 
-  {
-    "name": "Despina",
-    "diameters": 150,
-    "history": "Despina was discovered in late July 1989 from the images taken by the Voyager 2 probe. It was given the temporary designation S/1989 N 3. The discovery was announced (IAUC 4824) on 2 August 1989, and mentions 10 frames taken over 5 days, implying a discovery date of sometime before July 28.",
-    "planetName": "Neptune"
-  },
-  {
-    "name": "Galatea",
-    "diameters": 176,
-    "history": "Galatea was discovered in late July 1989 from the images taken by the Voyager 2 probe. It was given the temporary designation S/1989 N 4. The discovery was announced (IAUC 4824) on 2 August 1989, and mentions 10 frames taken over 5 days, implying a discovery date of sometime before July 28.",
-    "planetName": "Neptune"
-  },
-  {
-    "name": "Thalassa",
-    "diameters": 82,
-    "history": "Thalassa was discovered in August 1989 in images taken by Voyager 2. Thalassa was named after a daughter of Aether and Hemera from Greek mythology. Thalassa is also the Greek word for sea. The moon was originally designated as S/1989 N 5. Thalassa was the primordial goddess (protogenos) of the sea. Mingled with Pontos (Pontus), her male counterpart, she produced the fish and other sea creatures. Thalassa was the literal body of the sea and in the fables of Aesop, manifests as a woman formed of sea-water rising from her native element.",
-    "planetName": "Neptune"
-  },
-  {
-    "name": "Naiad",
-    "diameters": 66,
-    "history": "Naiad was the last moon to be discovered during the Voyager 2 flyby in September 1989. Naiad or Neptune III is the closest moon to Neptune named after the Naiads of Greek legend. The last moon to be discovered during the flyby, it was designated S/1989 N 6.",
-    "planetName": "Neptune"
-  },
 
-  {
-    "name": "Larissa",
-    "diameters": 194,
-    "history": "Larissa is another of the small moons found near Neptune's faint ring system in 1989. Similar to Despina and Galatea, Larissa is irregularly shaped and heavily cratered. Larissa, also known as Neptune VII, is the fifth-closest inner satellite of Neptune. It is named after Larissa, a lover of Poseidon (Neptune) in Greek mythology and eponymous nymph of the city in Thessaly, Greece.",
-    "planetName": "Neptune"
-  },
-  {
-    "name": "Proteus",
-    "diameters": 420,
-    "history": "Proteus was discovered from the images taken by the Voyager 2 space probe two months before its Neptune flyby in August 1989. Proteus was the third moon of Neptune to be discovered, 40 years after the discovery of Neptune's moon Nereid in 1949.",
-    "planetName": "Neptune"
-  },
   {
     "name": "Triton",
     "diameters": 2750,
-    "history": "Triton was discovered on Oct. 10, 1846 by British astronomer William Lassell, just 17 days after Neptune itself was discovered. Triton is the largest of Neptune's 13 moons. It is unusual because it is the only large moon in our solar system that orbits in the opposite direction of its planet's rotation―a retrograde orbit.",
+    "history": "Triton was discovered by British astronomer William Lassell on Oct. 10, 1846, just 17 days after Neptune itself was discovered, which was Sept 23, 1846. Triton was named after the son of Poseidon (the Greek god comparable to the Roman Neptune). Until the discovery of the second moon Nereid in 1949, Triton was commonly known as the satellite of Neptune.",
     "planetName": "Neptune"
   },
   {
     "name": "Nereid",
     "diameters": 340,
-    "history": "Nereid was first seen by Gerard Kuiper in 1949 and was the last satellite of Neptune to be discovered before Voyager 2's discoveries in 1989. Nereid was discovered on May 1, 1949 by Gerard P. Kuiper with a ground-based telescope. It was the last satellite of Neptune to be discovered before Voyager 2's discoveries four decades later.",
+    "history": "Nereid was the last satellite of Neptune to be discovered by Gerard P. Kuiper with a ground-based telescope on May 1, 1949. Nereid was named after the Nereids, sea-nymphs, in Greek mythology. Kuiper proposed the name when he reported his discovery.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Proteus",
+    "diameters": 420,
+    "history": "Proteus (1989 N1) was discovered from the images taken by the Voyager 2 science team in 1989. Proteus has been an unusual moon since Nereid was discovered in 1949. Proteus was originally called S/1989 N1 and was named after the shape-changing sea god of Greek mythology.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Larissa",
+    "diameters": 194,
+    "history": "Larissa (1989 N2) was initially spotted by H. Reitsema, W. Hubbard, L. Lebofsky and D. Tholen through ground-based telescopes on May 24, 1981, but it was officially discovered from the images taken by the Voyager 2 science team in July, 1989. Larissa was originally called S/1989 N2 and was named because Larissa was a nymph from Greek mythology.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Despina",
+    "diameters": 150,
+    "history": "Despina (1989 N3) was discovered from the images taken by the Voyager science team in late July, 1989. Despina was originally called S/1989 N3 and was named after Greek mythological character Despoina, a nymph who was a daughter of Poseidon and Demeter.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Galatea",
+    "diameters": 176,
+    "history": "Galatea (1989 N4) was discovered from the images taken by the Voyager science team in July, 1989. Galatea and Despina are two more of Neptune's tiny, irregularly-shaped moons. Galatea was originally called S/1989 N3 and was named because Galatea was a sea nymph who attended to Poseidon.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Thalassa",
+    "diameters": 82,
+    "history": "Thalassa (1989 N5) was discovered from the images taken by the Voyager science team in August, 1989. Thalassa was originally called S/1989 N4 and was named after a daughter of Aether and Hemera from Greek mythology. Thalassa is also the Greek word for sea.",
+    "planetName": "Neptune"
+  },
+  {
+    "name": "Naiad",
+    "diameters": 66,
+    "history": "Naiad (1989 N6) was the last moon to be discovered by the Voyager 2 in September 1989. Naiad is a potato-shaped moon of Neptune; it is mostly made of small fragments of Neptune's original satellites. Naiad was originally called S/1989 N6 and was named Naiad because its a type of mymph who presided over fountains, wells, springs, streams, and brooks in Greek mythology.",
     "planetName": "Neptune"
   },
   {
     "name": "Halimede",
     "diameters": 62,
-    "history": "Halimede was discovered Aug. 14, 2002 by Matthew J. Holman, John J. Kavelaars, Tommy Grav, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-meter Blanco telescope at the Cerro Tololo Inter-American Observatory in Chile and the 3.6-meter Canada-France-Hawaii Telescope in Hawaii. Multiple images were digitally combined until stars appeared as streaks, while the moons appeared as points of light.",
+    "history": "Halimede (2002 N1) was discovered by Matthew J. Holman, John J. Kavelaars, Tommy Grav, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-meter Blanco telescope on Aug. 14, 2002. Halimede was originally called S/2002 N1 and was named after one of the Nereids. Most moons of Neptune are named for characters from Greek or Roman mythology associated with Neptune, or Poseidon, or the oceans.",
     "planetName": "Neptune"
   },
   {
     "name": "Sao",
     "diameters": 44,
-    "history": "Sao was discovered Aug. 14, 2002 by Tommy Grav, Matthew J. Holman, John J. Kavelaars, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-m Blanco telescope at the Cerro Tololo Inter-American Observatory in Chile and the 3.6-m Canada-France-Hawaii Telescope in Hawaii. Multiple images were digitally combined until stars appeared as streaks, while the moons appeared as points of light. Sao, Laomedeia and Halimede were discovered through the use of Earth-based telescopes -- this was the first time a Neptunian moon discovery had occurred by telescope since the discovery of Nereid in 1949 by Gerard Kuiper.",
+    "history": "Sao was discovered by Tommy Grav, Matthew J. Holman, John J. Kavelaars, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-m Blanco telescope on Aug. 14, 2002. Scientists are trying to learn more about Sao from its irregular sisters, and they have a general idea of the conditions under which our solar system formed billions of years ago. Sao was named for characters from Greek or Roman mythology associated with Neptune, Poseidon, or the ocean.",
     "planetName": "Neptune"
   }
 ]
