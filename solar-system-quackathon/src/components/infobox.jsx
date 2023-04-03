@@ -11,7 +11,7 @@ export default function InfoBox() {
   const handleClick = async tabName => {
     setActiveTab(tabName);
     try {
-      const response = await Axios.get("/moon");
+      const response = await Axios.get("http://localhost:3000/moon");
       console.log("data:", response.data);
     } catch (error) {
       console.log(error.response.data);
