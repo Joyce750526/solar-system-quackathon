@@ -2,7 +2,7 @@
   {
     "name": "Moon",
     "diameter": 3474.8,
-    "history": "This is the only natural satellite of the planet Earth and is simply called 'the Moon' because people believed it to be the only moon that existed before Galileo Galilei discovered other moons. It is the only place beyond the earth where humans have set foot. The earths moon affects the tides of the rivers on earth.",
+    "history": "This is the only natural satellite of the planet Earth and is simply called 'the Moon' because people believed it to be the only moon that existed before Galileo Galilei discovered other moons. It is the only place beyond the Earth where humans have set foot. The Earth's moon affects the tides of the ocean on Earth.",
     "planetName": "Earth"
   },
   {
@@ -145,123 +145,123 @@
   },
   {
     "name": "Cupid",
-    "diameters": 36,
+    "diameter": 36,
     "history": "Cupid (2003 U2) was discovered by M.R. Showalter and J.J. Lissauer using the Hubble Space Telescope on Aug. 25, 2003. Cupid was originally called S/2003 U2 and was named for the Roman god of love, who appears in William Shakespeare's play, Timon of Athens (in keeping with the custom of naming most of Uranus' moons after Shakespearean characters).",
     "planetName": "Uranus"
   },
   {
     "name": "Portia",
-    "diameters": 135,
+    "diameter": 135,
     "history": "Portia (1986 U1) was discovered in the images taken by the Voyager science team on Jan. 3, 1986. Portia was originally called S/1986 U1 and was named after Portia, the heroine of William Shakespeare's 16th-century play, The Merchant of Venice.",
     "planetName": "Uranus"
   },
   {
     "name": "Juliet",
-    "diameters": 94,
+    "diameter": 94,
     "history": "Juliet (1986 U2) was discovered in the images taken by the Voyager science team on Jan. 3, 1986. Juliet was originally called S/1986 U2 and was named for the title character in William Shakespeare's play, Romeo and Juliet. Juliet is the daughter of the Capulets, who are sworn enemies of the Montagues.",
     "planetName": "Uranus"
   },
   {
     "name": "Cressida",
-    "diameters": 80,
+    "diameter": 80,
     "history": "Cressida (1986 U3) was discovered in the images taken by the Voyager science team on Jan. 9, 1986. Cressida was originally called S/1986 U3 and was named for the title character in William Shakespeare's play, Troilus and Cressida.",
     "planetName": "Uranus"
   },
 
   {
     "name": "Rosalind",
-    "diameters": 72,
+    "diameter": 72,
     "history": "Rosalind (1986 U4) was discovered in the images taken by the Voyager science team on Jan. 13, 1986. Rosalind  was originally called S/1986 U4 and was named for the daughter of a banished Duke in Shakespeare's play.",
     "planetName": "Uranus"
   },
   {
     "name": "Belinda",
-    "diameters": 81,
+    "diameter": 81,
     "history": "Belinda (1986 U5) was discovered in the images taken by the Voyager science team on January 13, 1986. Belinda was originally called S/1986 U5 and was named after the character whose lock of hair is stolen in Alexander Pope's Rape of the Lock.",
     "planetName": "Uranus"
   },
   {
     "name": "Desdemona",
-    "diameters": 64,
+    "diameter": 64,
     "history": "Desdemona (1986 U6) was discovered in the images taken by the Voyager science team on Jan. 13, 1986. Desdemona was originally called S/1986 U6 and was named after the wife of Othello in William Shakespeare's play, Othello, the Moor of Venice. Desdemona is the daughter of a Venetian senator.",
     "planetName": "Uranus"
   },
   {
     "name": "Cordelia",
-    "diameters": 40,
+    "diameter": 40,
     "history": "Cordelia (1986 U7) and Ophelia (1986 U8) were both discovered in the images taken by the Voyager science team on Jan. 20, 1986. It was not detected again until the Hubble Space Telescope observed it in 1997. It is the closest moon to the planets. Cordelia was originally called S/1986 U7 and was named for one of the youngest daughters of King Lear in William Shakespeare's play of the same name.",
     "planetName": "Uranus"
   },
   {
     "name": "Ophelia",
-    "diameters": 43,
+    "diameter": 43,
     "history": "Ophelia (1986 U8) and Cordelia (1986 U7) were both discovered in the images taken by the Voyager science team on Jan. 20, 1986. Ophelia was originally called S/1986 U8 and was named for the character of Ophelia in Shakespeare's Hamlet. Ophelia is the daughter of Polonius and the fiance of Hamlet in the play.",
     "planetName": "Uranus"
   },
   {
     "name": "Bianca",
-    "diameters": 51,
+    "diameter": 51,
     "history": "Bianca (1986 U9) was discovered in the images taken by the Voyager science team on Jan. 23, 1986. Bianca was originally called S/1986 U9 and was named after the sister of Katharina (Kate) in Shakespeare's play, The Taming of the Shrew.",
     "planetName": "Uranus"
   },
 
   {
     "name": "Triton",
-    "diameters": 2750,
+    "diameter": 2750,
     "history": "Triton was discovered by British astronomer William Lassell on Oct. 10, 1846, just 17 days after Neptune itself was discovered, which was Sept 23, 1846. Triton was named after the son of Poseidon (the Greek god comparable to the Roman Neptune). Until the discovery of the second moon Nereid in 1949, Triton was commonly known as the satellite of Neptune.",
     "planetName": "Neptune"
   },
   {
     "name": "Nereid",
-    "diameters": 340,
+    "diameter": 340,
     "history": "Nereid was the last satellite of Neptune to be discovered by Gerard P. Kuiper with a ground-based telescope on May 1, 1949. Nereid was named after the Nereids, sea-nymphs, in Greek mythology. Kuiper proposed the name when he reported his discovery.",
     "planetName": "Neptune"
   },
   {
     "name": "Proteus",
-    "diameters": 420,
+    "diameter": 420,
     "history": "Proteus (1989 N1) was discovered from the images taken by the Voyager 2 science team in 1989. Proteus has been an unusual moon since Nereid was discovered in 1949. Proteus was originally called S/1989 N1 and was named after the shape-changing sea god of Greek mythology.",
     "planetName": "Neptune"
   },
   {
     "name": "Larissa",
-    "diameters": 194,
+    "diameter": 194,
     "history": "Larissa (1989 N2) was initially spotted by H. Reitsema, W. Hubbard, L. Lebofsky and D. Tholen through ground-based telescopes on May 24, 1981, but it was officially discovered from the images taken by the Voyager 2 science team in July, 1989. Larissa was originally called S/1989 N2 and was named because Larissa was a nymph from Greek mythology.",
     "planetName": "Neptune"
   },
   {
     "name": "Despina",
-    "diameters": 150,
+    "diameter": 150,
     "history": "Despina (1989 N3) was discovered from the images taken by the Voyager science team in late July, 1989. Despina was originally called S/1989 N3 and was named after Greek mythological character Despoina, a nymph who was a daughter of Poseidon and Demeter.",
     "planetName": "Neptune"
   },
   {
     "name": "Galatea",
-    "diameters": 176,
+    "diameter": 176,
     "history": "Galatea (1989 N4) was discovered from the images taken by the Voyager science team in July, 1989. Galatea and Despina are two more of Neptune's tiny, irregularly-shaped moons. Galatea was originally called S/1989 N3 and was named because Galatea was a sea nymph who attended to Poseidon.",
     "planetName": "Neptune"
   },
   {
     "name": "Thalassa",
-    "diameters": 82,
+    "diameter": 82,
     "history": "Thalassa (1989 N5) was discovered from the images taken by the Voyager science team in August, 1989. Thalassa was originally called S/1989 N4 and was named after a daughter of Aether and Hemera from Greek mythology. Thalassa is also the Greek word for sea.",
     "planetName": "Neptune"
   },
   {
     "name": "Naiad",
-    "diameters": 66,
+    "diameter": 66,
     "history": "Naiad (1989 N6) was the last moon to be discovered by the Voyager 2 in September 1989. Naiad is a potato-shaped moon of Neptune; it is mostly made of small fragments of Neptune's original satellites. Naiad was originally called S/1989 N6 and was named Naiad because its a type of mymph who presided over fountains, wells, springs, streams, and brooks in Greek mythology.",
     "planetName": "Neptune"
   },
   {
     "name": "Halimede",
-    "diameters": 62,
+    "diameter": 62,
     "history": "Halimede (2002 N1) was discovered by Matthew J. Holman, John J. Kavelaars, Tommy Grav, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-meter Blanco telescope on Aug. 14, 2002. Halimede was originally called S/2002 N1 and was named after one of the Nereids. Most moons of Neptune are named for characters from Greek or Roman mythology associated with Neptune, or Poseidon, or the oceans.",
     "planetName": "Neptune"
   },
   {
     "name": "Sao",
-    "diameters": 44,
+    "diameter": 44,
     "history": "Sao was discovered by Tommy Grav, Matthew J. Holman, John J. Kavelaars, Wesley C. Fraser, and Dan Milisavljevic using images taken by the 4.0-m Blanco telescope on Aug. 14, 2002. Scientists are trying to learn more about Sao from its irregular sisters, and they have a general idea of the conditions under which our solar system formed billions of years ago. Sao was named for characters from Greek or Roman mythology associated with Neptune, Poseidon, or the ocean.",
     "planetName": "Neptune"
   }
